@@ -21,7 +21,7 @@
                                 <li><a href="about_us.html" title="">about us</a>
                                 </li>
                                 <li><a href="services.html" title="">services</a>
-                                </li>
+                                <!-- </li>
                                 <li><a href="project_2.html" title="">projects</a>
 								 <ul>
                                         <li class="dropdown_hover"><a href="project_2.html" title=""> project 2</a></li>
@@ -31,8 +31,8 @@
                                         <li class="dropdown_hover"><a href="project_single.html" title=""> project single</a></li>
 
                                     </ul>
-                                </li>
-                                <li><a href="team.html" title="">team</a>
+                                </li> -->
+                                <!-- <li><a href="team.html" title="">team</a>
                                     <ul>
                                         <li class="dropdown_hover"><a href="team.html" title=""> team</a></li>
                                         <li class="dropdown_hover"><a href="team_details.html" title="">team details</a></li>
@@ -44,7 +44,7 @@
                                         <li class="dropdown_hover"><a href="blog_category.html" title=""> blog category</a></li>
                                         <li class="dropdown_hover"><a href="blog_single.html" title=""> blog single</a></li>
                                     </ul>
-                                </li>
+                                </li> -->
                                 <li><a href="shop_sidebar.html" title="">shop</a>
                                     <ul>
                                         <li class="dropdown_hover"><a href="shop_sidebar.html" title="">shop sidebar</a></li>
@@ -60,7 +60,7 @@
                                 </li>
                             <li class="caret_btn">
                                 <a href="#"><i class="fa fa-shopping-basket"></i><span>2</span></a>
-                                <ul>
+                                <!-- <ul>
                                     <li>
                                         <div class="cc_cart_wrapper1 menu-button">
                                             <div class="cc_cart_img_wrapper">
@@ -107,7 +107,7 @@
                                         </div>
                                     </li>
 
-                                </ul>
+                                </ul> -->
                             </li>
 
                             <!-- Menu -->
@@ -162,7 +162,7 @@
                                                 </li>
                                                 <li><a href="services.html">services</a>
                                                 </li>
-                                                <li><a href="project_2.html">projects</a>
+                                                <!-- <li><a href="project_2.html">projects</a>
 												 <ul>
 													<li><a href="project_2.html" title=""> project 2</a></li>
 													<li><a href="project_3.html" title=""> project 3</a></li>
@@ -170,8 +170,8 @@
 													<li><a href="project_fullwidth.html" title="">project fullwidth</a></li>
 													<li><a href="project_single.html" title=""> project single</a></li>
 
-												</ul>
-                                                </li>
+												</ul> -->
+                                                <!-- </li>
                                                 <li><a href="team.html">team</a>
                                                     <ul>
 														<li><a href="team.html" title=""> team</a></li>
@@ -184,14 +184,14 @@
 														<li><a href="blog_category.html" title=""> blog category</a></li>
 														<li><a href="blog_single.html" title=""> blog single</a></li>
 													</ul>
-                                                </li>
-                                                <li><a href="shop_sidebar.html" title="">shop</a>
+                                                </li> -->
+                                                <!-- <li><a href="shop_sidebar.html" title="">shop</a>
                                                    <ul>
 														<li><a href="shop_sidebar.html" title="">shop sidebar</a></li>
 														<li><a href="shop_fullwidth.html" title=""> shop fullwidth</a></li>
 														<li><a href="shop_single.html" title=""> shop single</a></li>
 													</ul>
-                                                </li>
+                                                </li> -->
                                                 <li><a href="contact_us.html"> contact us</a>
 												 <ul>
 													  <li><a href="contact_us.html" title="">contact us</a></li>

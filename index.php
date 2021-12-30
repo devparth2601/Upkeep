@@ -6,7 +6,7 @@
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <head>
     <meta charset="utf-8" />
-    <title>Typhoon HTML Template</title>
+    <title>Upkeep Solar Solutions</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
     <meta name="description" content="smart pest" />
     <meta name="keywords" content="solar system /sun & wind" />
