@@ -9,7 +9,8 @@
                 <div class="main-menu-wrapper clear-fix">
 
                     <div class="logo float-left">
-                        <a href="index.php"><img src="images/inner_logo.png" class="img-responsive" alt="logo"></a>
+                        <a href="index.php" class="full-logo"><img src="images/inner_logo.png" class="img-responsive" alt="logo"></a>
+                        <a href="index.php" class="mobile-logo"><img src="images/mobile_logo.png" class="img-responsive" alt="logo"></a>
                     </div>
 
                 </div>
