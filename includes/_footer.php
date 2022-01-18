@@ -17,7 +17,7 @@
                                     <a href="index-2.html"><img src="images/hd_logo.gif" class="img-responsive" alt="logo" /></a>
                                 </div>
                                 <div class="abotus_content">
-                                    <p>We are here always here to serve you maintanace and any kind of technical support of your solar power system</p>
+                                    <p>We are always here for the maintanace and cleaning of your solar power system and full technical support will be provided</p>
                                     <ul>
                                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -73,7 +73,7 @@
                                 <ul>
 									<li>
                                      <h1>+919997865912</h1></li>
-									 <li><a href="#"><i class="flaticon-new-email-outline"></i>info@upkeepsolar.com</a>
+									 <li><a href="mailto:info@upkeepsolar.com"><i class="flaticon-new-email-outline"></i>info@upkeepsolar.com</a>
                                     </li>
 									 <li><a href="#"><i class="flaticon-internet"></i>www.upkeepsolar.com</a>
                                     </li>

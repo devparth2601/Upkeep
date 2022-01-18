@@ -7,16 +7,13 @@
 background-color: rgba(255,152,0,0.1) !important ;
 }
 
-#slide-67-layer-2{
+#slide-67-layer-2, #slide-67-layer-3{
 background-color: rgba(255,152,0,0.8) !important ;
 }
 
-#slide-67-layer-3{
-background-color: rgba(255,152,0,0.8) !important ;
-}
 
-.sw_new_letter_index {
-    background: rgb(255,152,0) !important ;
+.sw_contact_form_wrapper, .sw_new_letter_index {
+    background:#f9a519 !important;
 
 }
 
@@ -44,7 +41,7 @@ background-color: rgba(255,152,0,0.8) !important ;
 }
 
 .transparent-menu.header-area.hidden-menu-bar.stick.menu_fixed.animated.fadeIn {
-    height: 69px !important;
+    height: 90px !important;
 }
 .transparent-menu.header-area.hidden-menu-bar.stick .container {
     padding: 0px 5px !important;
@@ -74,3 +71,25 @@ background-color: rgba(255,152,0,0.8) !important ;
             display: none;
         }
     }
+/* /////////////////////////////////////////// PLACEHOLDER ///////////////////////////////////////// */
+
+
+    ::placeholder {
+        color: #f9a519 !important; 
+    }
+
+    .white-plc::placeholder {
+        color:white !important; 
+    }
+    .white-plc:focus::placeholder {
+        color:#f9a519 !important; 
+    }
+
+    .tp-caption a{
+    color:#f9a519 !important;
+    }
+    .tp-caption a:hover,
+    .tp-caption a:focus {
+    color: #1d3571 !important;
+    text-decoration: none !important;
+}

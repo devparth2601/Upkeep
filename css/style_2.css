@@ -1,7 +1,7 @@
 /***************-----------------------***********************
 [Master Stylesheet]
 
-Project:  Typhoon - Solar Energy HTML Template
+Project:  Upkeep Solar Solutions
 Version:  1.0.0
 Author:   Webstrot
 -----------------********************-------------------
@@ -36,7 +36,6 @@ html {
     line-height: 26px;
     font-weight: 400;
     font-size: 16px;
-    color: ;
 	overflow-x:hidden;
 	background:#fff !important;
 }
@@ -179,7 +178,7 @@ textarea:focus {
     box-shadow: 0px 0px 2px 25px -5px #c5c5c5;
 }
 #return-to-top i {
-    color: #1d3571;
+    color: #f9a519;
     margin: 0;
     left:0;
 	position:relative;
@@ -586,7 +585,7 @@ nav ul li.active {
 .page_title_section {
 	float:left;
 	width:100%;
-	background:#338fd1;
+	background:rgba(251, 172, 42,1);
 	position:relative;
 	margin-top:-23px;
 }
@@ -812,7 +811,7 @@ nav ul li.active {
 .sw_about_top_wrapper{
 	float:left;
 	width:100%;
-	background:#2c86c7;
+	background:#f9a519;
 }
 .sw_about_top_img{
 	float:left;
@@ -1405,7 +1404,7 @@ nav ul li.active {
 .sw_news_letter_wrapper {
     float: left;
     width: 100%;
-	background:#328fd1;
+	background:#f9a519;
     padding-top: 80px;
     padding-bottom:80px;
 }
@@ -1606,7 +1605,7 @@ margin-top: 15px;
 	float:left;
 	font-weight:500;
 	margin-left:-100px;
-	background-color:#328fd1;
+	background-color:#f9a519;
 	color:#fff;
 	border:0px;
 	font-family: 'Montserrat', sans-serif;
@@ -2104,7 +2103,7 @@ margin-top: 15px;
     transition: all .5s;
 }
 .sw_disc_image i{
-	color:#337ab7;
+	color:#f9a519;
 }
 .sw_disc_head_text {
     font-size: 16px;
@@ -2149,7 +2148,7 @@ margin-top: 15px;
     width: 155px;
     height: 50px;
     float: left;
-    color: #1d3571;
+    color: #f9a519;
     background: #fff;
     text-align: center;
     line-height: 51px;
@@ -2584,7 +2583,7 @@ margin-top: 15px;
 	width:180px;
 	height:50px;
 	float:left;
-	color:#1d3571;
+	color:#f9a519;
 	text-transform:capitalize;
 	background:#fff;
 	text-align:center;
@@ -3475,7 +3474,7 @@ font-weight:400;
 }
 .cntct_2_btn_inner button{
 	color:#fff;
-	background:#338fd1;
+	background:#f9a519;
 }
 .contact-section .holder form textarea{
 	float: left;
@@ -3546,7 +3545,7 @@ font-weight:400;
 .contact-box {
 	float: left;
     width: 100%;
-	background:#328fd1;
+	background:#f9a519;
 	padding: 40px 25px 40px 41px;
 	position:relative;
 	left:2px;

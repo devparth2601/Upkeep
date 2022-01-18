@@ -1,7 +1,4 @@
-
-    <!--sw header wrapper start-->
-
-    <div class="transparent-menu header-area hidden-menu-bar stick">
+<div class="transparent-menu header-area hidden-menu-bar stick">
 
         <div class="container">
 
@@ -17,105 +14,21 @@
                 <div class="sc_navigation hidden-sm hidden-xs">
                     <nav id="primary-nav" class="dropdown nav_left_margin">
                         <ul class="dropdown menu navigation cart_dropdown_wrapper">
-                            <li><a href="index_2.html" title="">Home</a>
+                            <li><a href="index.php" title="">Home</a>
                                 </li>
-                                <li><a href="about_us.html" title="">about us</a>
-                                </li>
-                                <li><a href="services.html" title="">services</a>
-                                <!-- </li>
-                                <li><a href="project_2.html" title="">projects</a>
-								 <ul>
-                                        <li class="dropdown_hover"><a href="project_2.html" title=""> project 2</a></li>
-                                        <li class="dropdown_hover"><a href="project_3.html" title=""> project 3</a></li>
-                                        <li class="dropdown_hover"><a href="project_4.html" title=""> project 4</a></li>
-                                        <li class="dropdown_hover"><a href="project_fullwidth.html" title="">project fullwidth</a></li>
-                                        <li class="dropdown_hover"><a href="project_single.html" title=""> project single</a></li>
+                                <li><a href="services.php" title="">Services</a>
 
-                                    </ul>
-                                </li> -->
-                                <!-- <li><a href="team.html" title="">team</a>
-                                    <ul>
-                                        <li class="dropdown_hover"><a href="team.html" title=""> team</a></li>
-                                        <li class="dropdown_hover"><a href="team_details.html" title="">team details</a></li>
-                                    </ul>
                                 </li>
-                                <li><a href="blog_single.html" title="">blog</a>
-                                    <ul>
-                                        <li class="dropdown_hover"><a href="blog_categories.html" title=""> blog categories</a></li>
-                                        <li class="dropdown_hover"><a href="blog_category.html" title=""> blog category</a></li>
-                                        <li class="dropdown_hover"><a href="blog_single.html" title=""> blog single</a></li>
-                                    </ul>
-                                </li> -->
-                                <li><a href="shop_sidebar.html" title="">shop</a>
-                                    <ul>
-                                        <li class="dropdown_hover"><a href="shop_sidebar.html" title="">shop sidebar</a></li>
-                                        <li class="dropdown_hover"><a href="shop_fullwidth.html" title=""> shop fullwidth</a></li>
-                                        <li class="dropdown_hover"><a href="shop_single.html" title=""> shop single</a></li>
-                                    </ul>
+                                <li><a href="about_us.php" title="">About us</a>
+                            
+                                <li><a href="contact_us.php" title="">Contact us</a>
                                 </li>
-                                <li><a href="contact_us.html" title="">Contact us</a>
-								 <ul>
-                                      <li class="dropdown_hover"><a href="contact_us.html" title="">contact us</a></li>
-                                      <li class="dropdown_hover"><a href="error.html" title=""> 404 error</a></li>
-                                </ul>
-                                </li>
-                            <li class="caret_btn">
-                                <a href="#"><i class="fa fa-shopping-basket"></i><span>2</span></a>
-                                <!-- <ul>
-                                    <li>
-                                        <div class="cc_cart_wrapper1 menu-button">
-                                            <div class="cc_cart_img_wrapper">
-                                                <img src="images/cart_1.png" alt="cart_img" />
-                                            </div>
-                                            <div class="cc_cart_cont_wrapper">
-                                                <h4><a href="#">put a title here</a></h4>
-                                                <p>1 <span> $145 </span> </p>
-                                                <h5><i class="fa fa-times"></i></h5>
-                                            </div>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="cc_cart_wrapper1 menu-button">
-                                            <div class="cc_cart_img_wrapper">
-                                                <img src="images/cart_2.png" alt="cart_img" />
-                                            </div>
-                                            <div class="cc_cart_cont_wrapper">
-                                                <h4><a href="#">put a title here</a></h4>
-                                                <p>1 <span> $145 </span></p>
-                                                <h5><i class="fa fa-times"></i></h5>
-                                            </div>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="cc_cart_wrapper1 menu-button">
-                                            <div class="cc_cart_img_wrapper">
-                                                <img src="images/cart_3.png" alt="cart_img" />
-                                            </div>
-                                            <div class="cc_cart_cont_wrapper">
-                                                <h4><a href="#">put a title here</a></h4>
-                                                <p>1 <span> $145 </span></p>
-                                                <h5><i class="fa fa-times"></i></h5>
-                                            </div>
-                                        </div>
-                                        <div class="btm_cart_wrapper">
-                                            <h5>$450.00</h5>
-                                            <p>3 items</p>
-                                        </div>
-                                        <div class="cart_checkout_btn">
-
-                                            <a href="#!" class="waves-effect waves-light waves-ripple">checkout</a>
-
-                                        </div>
-                                    </li>
-
-                                </ul> -->
-                            </li>
 
                             <!-- Menu -->
                             <!--search -->
                         </ul>
                         <div class="header_right_inner_page">
-                            <div class="search-wrapper">
+                            <!-- <div class="search-wrapper">
                                 <div class="et_navbar_search_wrapper hidden-xs">
                                     <div class="et_search_bar" id="search_button">
                                         <a href="#"><i class="fa fa-search waves-effect waves-light" aria-hidden="true"></i></a>
@@ -125,7 +38,7 @@
                                         <a href="#"><i class="fa fa-search" aria-hidden="true"></i></a>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                             <div class="sw_icon_bar">
                                 <ul class="tc_login_btn_wrapper">
                                     <li class="dropdown tc_login_btn">
@@ -156,100 +69,24 @@
                                 <div class="mobile-menu">
                                     <nav>
                                         <ul class="nav">
-                                            <li><a href="index-2.html">Home</a>
+                                            <li><a href="index.php">Home</a>
 												
                                                 </li>
-                                                <li><a href="about_us.html">about us</a>
+                                                <li><a href="about_us.php">about us</a>
                                                 </li>
-                                                <li><a href="services.html">services</a>
+                                                <li><a href="services.php">services</a>
                                                 </li>
-                                                <!-- <li><a href="project_2.html">projects</a>
-												 <ul>
-													<li><a href="project_2.html" title=""> project 2</a></li>
-													<li><a href="project_3.html" title=""> project 3</a></li>
-													<li><a href="project_4.html" title=""> project 4</a></li>
-													<li><a href="project_fullwidth.html" title="">project fullwidth</a></li>
-													<li><a href="project_single.html" title=""> project single</a></li>
-
-												</ul> -->
-                                                <!-- </li>
-                                                <li><a href="team.html">team</a>
+                                                
+                                                <li><a href="contact_us.php"> contact us</a>
+											
+                                                </li>
+                                                <li><a href="User" title="">User</a>
                                                     <ul>
-														<li><a href="team.html" title=""> team</a></li>
-														<li><a href="team_details.html" title="">team details</a></li>
-													</ul>
+                                                    <li href="FAQ's" title=""><a href="#">FAQ's</a></li>
+                                                    <li href="register" title=""><a href="#">Register</a></li>
+                                                    <li href="login" title=""><a href="#">Login</a></li>
+                                                    </ul>
                                                 </li>
-                                                <li><a href="blog_single.html" title="">blog</a>
-                                                     <ul>
-														<li><a href="blog_categories.html" title=""> blog categories</a></li>
-														<li><a href="blog_category.html" title=""> blog category</a></li>
-														<li><a href="blog_single.html" title=""> blog single</a></li>
-													</ul>
-                                                </li> -->
-                                                <!-- <li><a href="shop_sidebar.html" title="">shop</a>
-                                                   <ul>
-														<li><a href="shop_sidebar.html" title="">shop sidebar</a></li>
-														<li><a href="shop_fullwidth.html" title=""> shop fullwidth</a></li>
-														<li><a href="shop_single.html" title=""> shop single</a></li>
-													</ul>
-                                                </li> -->
-                                                <li><a href="contact_us.html"> contact us</a>
-												 <ul>
-													  <li><a href="contact_us.html" title="">contact us</a></li>
-													  <li><a href="error.html" title=""> 404 error</a></li>
-												</ul>
-                                                </li>
-                                            <li class="caret_btn">
-                                                <a href="#"><i class="fa fa-shopping-basket"></i><span>2</span></a>
-                                                <ul>
-                                                    <li>
-                                                        <div class="cc_cart_wrapper1 menu-button">
-                                                            <div class="cc_cart_img_wrapper">
-                                                                <img src="images/cart_1.png" alt="cart_img" />
-                                                            </div>
-                                                            <div class="cc_cart_cont_wrapper">
-                                                                <h4><a href="#">put a title here</a></h4>
-                                                                <p>1 <span> $145 </span> </p>
-                                                                <h5><i class="fa fa-times"></i></h5>
-                                                            </div>
-                                                        </div>
-                                                    </li>
-                                                    <li>
-                                                        <div class="cc_cart_wrapper1 menu-button">
-                                                            <div class="cc_cart_img_wrapper">
-                                                                <img src="images/cart_2.png" alt="cart_img" />
-                                                            </div>
-                                                            <div class="cc_cart_cont_wrapper">
-                                                                <h4><a href="#">put a title here</a></h4>
-                                                                <p>1 <span> $145 </span></p>
-                                                                <h5><i class="fa fa-times"></i></h5>
-                                                            </div>
-                                                        </div>
-                                                    </li>
-                                                    <li>
-                                                        <div class="cc_cart_wrapper1 menu-button">
-                                                            <div class="cc_cart_img_wrapper">
-                                                                <img src="images/cart_3.png" alt="cart_img" />
-                                                            </div>
-                                                            <div class="cc_cart_cont_wrapper">
-                                                                <h4><a href="#">put a title here</a></h4>
-                                                                <p>1 <span> $145 </span></p>
-                                                                <h5><i class="fa fa-times"></i></h5>
-                                                            </div>
-                                                        </div>
-                                                        <div class="btm_cart_wrapper">
-                                                            <h5>$450.00</h5>
-                                                            <p>3 items</p>
-                                                        </div>
-                                                        <div class="cart_checkout_btn">
-
-                                                            <a href="#!" class="waves-effect waves-light waves-ripple">checkout</a>
-
-                                                        </div>
-                                                    </li>
-
-                                                </ul>
-                                            </li>
 
                                         </ul>
                                     </nav>
