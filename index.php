@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 
 <html lang="english">
 
@@ -46,6 +45,8 @@
     </div>
     <!--sw header wrapper start-->
     <?php include 'includes/_menu.php' ?>
+
+
 
     <!--sw header wrapper end-->
     <!--sw slider wrapper start-->
@@ -520,127 +521,7 @@
     </div>
     <!-- sw leads section end-->
 	 <!-- sw pricing section start-->
-    <div class="sw_pricing_wrapper">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12 col-lg-offset-3">
-                    <div class="sw_left_heading_wraper sw_center_heading_wrapper pd_0">
-                        <h1>Affordable Pricing Packages</h1>
-                        <img src="images/heading_line.png" alt="title">
-                        <p>Donec quis magna sit amet risus vulputate maximus eget eget arcu. Praesent sed molestie tortor. </p>
-                    </div>
-                </div>
-
-                <div class="pricing_box1_wrapper">
-                    <div class="box1_heading_wrapper box1_orange">
-
-                        <h1><sup>$</sup>75<span> /  month</span></h1>
-                        <div class="jp_pricing_label_wrapper">
-
-                        </div>
-                    </div>
-
-                    <div class="price_box1_wrapper">
-                        <div class="disc_btn pricing_btn">
-                            <ul>
-                                <li>
-                                    <a href="#!" class="waves-effect waves-light waves-ripple">basic</a>
-                                </li>
-                            </ul>
-
-                        </div>
-
-                        <div class="pricing_btm_txt_wrapper txt_clr_oange">
-                            <div class="pricing_cont">
-                                <p>Battery Capacity 11 - 15 kWh</p>
-                                <ul>
-                                    <li> free service</li>
-                                    <li>ranted battery</li>
-                                    <li>free installation</li>
-                                    <li>24 hour support</li>
-
-                                </ul>
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-
-                <div class="pricing_box1_wrapper sw_pricing_box_transition">
-                    <div class="box1_heading_wrapper box1_blue">
-
-                        <h1><sup>$</sup>95<span> /  month</span></h1>
-                        <div class="jp_pricing_label_wrapper jp_pricing_label_blue">
-
-                        </div>
-                    </div>
-                    <div class="price_box1_wrapper price_box1_wrapper_center">
-                        <div class="disc_btn pricing_btn">
-                            <ul>
-                                <li>
-                                    <a href="#!" class="waves-effect waves-light waves-ripple">business</a>
-                                </li>
-                            </ul>
-
-                        </div>
-
-                        <div class="pricing_btm_txt_wrapper txt_clr_blue">
-                            <div class="pricing_cont">
-                                <p>Battery Capacity 16 - 20 kWh</p>
-                                <ul>
-                                    <li> free service</li>
-                                    <li>ranted battery</li>
-                                    <li>free installation</li>
-                                    <li>24 hour support</li>
-
-                                </ul>
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-
-                <div class="pricing_box1_wrapper padder_btm_0">
-                    <div class="box1_heading_wrapper box1_green">
-
-                        <h1><sup>$</sup>125<span> /  month</span></h1>
-                        <div class="jp_pricing_label_wrapper jp_pricing_label_green">
-
-                        </div>
-                    </div>
-
-                    <div class="price_box1_wrapper">
-                        <div class="disc_btn pricing_btn">
-                            <ul>
-                                <li>
-                                    <a href="#!" class="waves-effect waves-light waves-ripple">ultimate</a>
-                                </li>
-                            </ul>
-
-                        </div>
-
-                        <div class="pricing_btm_txt_wrapper txt_clr_green">
-                            <div class="pricing_cont">
-                                <p>Battery Capacity all kWh</p>
-                                <ul>
-                                    <li> free service</li>
-                                    <li>ranted battery</li>
-                                    <li>free installation</li>
-                                    <li>24 hour support</li>
-
-                                </ul>
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-
-            </div>
-        </div>
-    </div>
+    
     <!-- sw pricing section end-->
 	 <!-- sw contact form section start-->
     <div class="sw_contact_form_wrapper sw_contact_form_padder sw_contact_index">
@@ -696,95 +577,7 @@
     </div>
 
     <!-- sw contact form section end-->
-	 <div class="sw_blog_categories_2_wrapper sw_blog_2_wrapper pst">
-
-        <div class="container">
-            <div class="row">
-			   <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12 col-lg-offset-3">
-                    <div class="sw_left_heading_wraper sw_center_heading_wrapper">
-                        <h1>latest news today</h1>
-                        <img src="images/heading_line.png" alt="title">
-                        <p>Donec quis magna sit amet risus vulputate maximus eget eget arcu. Praesent sed molestie tortor. </p>
-                    </div>
-                </div>
-				<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-
-                        <div class="btc_blog_indx_box_wrapper btc_blog_padder btc_index_blog_pader">
-                            <div class="btc_blog_indx_img_wrapper">
-                                <img src="images/news_1.jpg" alt="blog_img">
-                                <div class="btc_blog_indx_date_wrapper">
-                                    <a href="#!" class="waves-effect waves-light waves-ripple"><i class="fa fa-long-arrow-right"></i></a>
-                                </div>
-                            </div>
-                            <div class="btc_blog_indx_cont_wrapper">
-                                <p>june 16,2018</p>
-                                <h5>Electricity is on track for what
-about decarbonising heat?</h5>
-
-                            </div>
-                            <div class="btc_blog_indx_cont_bottom">
-                                <div class="btc_blog_indx_cont_bottom_left">
-                                    <p><i class="fa fa-user"></i> &nbsp;<a href="#">by Akshay</a></p>
-                                </div>
-                                <div class="btc_blog_indx_cont_bottom_right">
-                                    <p><i class="fa fa-comments-o"></i> &nbsp;<a href="#">04 Comm.</a></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-					<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-
-                        <div class="btc_blog_indx_box_wrapper btc_blog_padder btc_index_blog_pader">
-                            <div class="btc_blog_indx_img_wrapper">
-                                <img src="images/news_2.jpg" alt="blog_img">
-                                <div class="btc_blog_indx_date_wrapper">
-                                    <a href="#!" class="waves-effect waves-light waves-ripple"><i class="fa fa-long-arrow-right"></i></a>
-                                </div>
-                            </div>
-                            <div class="btc_blog_indx_cont_wrapper">
-                                <p>june 16,2018</p>
-                                <h5>Electricity is on track for what
-about decarbonising heat?</h5>
-
-                            </div>
-                            <div class="btc_blog_indx_cont_bottom">
-                                <div class="btc_blog_indx_cont_bottom_left">
-                                    <p><i class="fa fa-user"></i> &nbsp;<a href="#">by Akshay</a></p>
-                                </div>
-                                <div class="btc_blog_indx_cont_bottom_right">
-                                    <p><i class="fa fa-comments-o"></i> &nbsp;<a href="#">04 Comm.</a></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-					<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-
-                        <div class="btc_blog_indx_box_wrapper btc_blog_padder">
-                            <div class="btc_blog_indx_img_wrapper">
-                                <img src="images/news_3.jpg" alt="blog_img">
-                                <div class="btc_blog_indx_date_wrapper">
-                                    <a href="#!" class="waves-effect waves-light waves-ripple"><i class="fa fa-long-arrow-right"></i></a>
-                                </div>
-                            </div>
-                            <div class="btc_blog_indx_cont_wrapper">
-                                <p>june 16,2018</p>
-                                <h5>Electricity is on track for what
-about decarbonising heat?</h5>
-
-                            </div>
-                            <div class="btc_blog_indx_cont_bottom">
-                                <div class="btc_blog_indx_cont_bottom_left">
-                                    <p><i class="fa fa-user"></i> &nbsp;<a href="#">by Akshay</a></p>
-                                </div>
-                                <div class="btc_blog_indx_cont_bottom_right">
-                                    <p><i class="fa fa-comments-o"></i> &nbsp;<a href="#">04 Comm.</a></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-             </div>
-		</div>
-     </div>
+	
 	 <!-- sw blog wrapper end-->
 	   <!--sw our newsletter wrapper start-->
     <div class="sw_our_newsletter_wrapper">

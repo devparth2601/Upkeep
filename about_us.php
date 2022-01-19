@@ -305,7 +305,7 @@ Author:   Webstrot
                                 <div class="sw_product_box_wrapper">
                                     <div class="sw_product_indx_img_wrapper">
                                         <div class="sp_img_box_overlay"></div>
-                                        <img src="images/abt_pdt_1.png" alt="shop_img" class="img-responsive" />
+                                        <img src="images/parth.png" alt="shop_img" class="img-responsive" />
                                         <div class="abt_img_btn_wrapper">
                                             <ul>
                                                 <li><a href="#"><i class="fa fa-facebook"></i></a>
@@ -324,8 +324,8 @@ Author:   Webstrot
 
                                     <div class="sw_product_indx_img_cont_wrapper sw_product_indx_img_cont_wrapper_2 sw_prdct_11">
 
-                                        <h1><a href="#">akshay H.</a></h1>
-                                        <h5>(project manager)</h5>
+                                        <h1><a href="#">Parth Vaghasiya</a></h1>
+                                        <h5>Junior Engineer</h5>
 
                                     </div>
                                 </div>
@@ -334,7 +334,7 @@ Author:   Webstrot
                                 <div class="sw_product_box_wrapper">
                                     <div class="sw_product_indx_img_wrapper">
                                         <div class="sp_img_box_overlay"></div>
-                                        <img src="images/abt_pdt_2.png" alt="shop_img" class="img-responsive" />
+                                        <img src="images/akshay.png" alt="shop_img" class="img-responsive" />
                                         <div class="abt_img_btn_wrapper">
                                             <ul>
                                                 <li><a href="#"><i class="fa fa-facebook"></i></a>
@@ -353,8 +353,8 @@ Author:   Webstrot
 
                                     <div class="sw_product_indx_img_cont_wrapper sw_product_indx_img_cont_wrapper_2 sw_prdct_11">
 
-                                        <h1><a href="#"> farhan S.</a></h1>
-                                        <h5>(site engineer)</h5>
+                                        <h1><a href="#"> Akshay Joshi</a></h1>
+                                        <h5>Junior Engineer</h5>
 
                                     </div>
                                 </div>
@@ -363,7 +363,7 @@ Author:   Webstrot
                                 <div class="sw_product_box_wrapper">
                                     <div class="sw_product_indx_img_wrapper">
                                         <div class="sp_img_box_overlay"></div>
-                                        <img src="images/abt_pdt_3.png" alt="shop_img" class="img-responsive" />
+                                        <img src="images/sunny.png" alt="shop_img" class="img-responsive" />
                                         <div class="abt_img_btn_wrapper">
                                             <ul>
                                                 <li><a href="#"><i class="fa fa-facebook"></i></a>
@@ -382,8 +382,8 @@ Author:   Webstrot
 
                                     <div class="sw_product_indx_img_cont_wrapper sw_product_indx_img_cont_wrapper_2 sw_prdct_11">
 
-                                        <h1><a href="#">ajay S.</a></h1>
-                                        <h5>(site manager)</h5>
+                                        <h1><a href="#">Sunny Zalavadiya</a></h1>
+                                        <h5>Senior Engineer</h5>
 
                                     </div>
                                 </div>
@@ -392,7 +392,7 @@ Author:   Webstrot
                                 <div class="sw_product_box_wrapper">
                                     <div class="sw_product_indx_img_wrapper">
                                         <div class="sp_img_box_overlay"></div>
-                                        <img src="images/abt_pdt_4.png" alt="shop_img" class="img-responsive" />
+                                        <img src="images/umang.png" alt="shop_img" class="img-responsive" />
                                         <div class="abt_img_btn_wrapper">
                                             <ul>
                                                 <li><a href="#"><i class="fa fa-facebook"></i></a>
@@ -411,8 +411,8 @@ Author:   Webstrot
 
                                     <div class="sw_product_indx_img_cont_wrapper sw_product_indx_img_cont_wrapper_2 sw_prdct_11">
 
-                                        <h1><a href="#">manali H.</a></h1>
-                                        <h5>(site supervisor)</h5>
+                                        <h1><a href="#">Umang Vaghasiya</a></h1>
+                                        <h5>IT Engineer</h5>
 
                                     </div>
                                 </div>

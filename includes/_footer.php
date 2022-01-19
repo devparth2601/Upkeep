@@ -35,15 +35,15 @@
                                 <h4>useful links </h4>
                                 <img src="images/hd_line_dark.png" alt="title" class="pd_btm_3">
                                 <ul>
-                                    <li><a href="#"><i class="fa fa-angle-right"></i>About us</a>
+                                    <li><a href="about_us.php"><i class="fa fa-angle-right"></i>About us</a>
                                     </li>
-                                    <li><a href="#"><i class="fa fa-angle-right"></i>events </a>
+                                    
+                                    <li><a href="contact_us.php"><i class="fa fa-angle-right"></i>contact </a>
                                     </li>
-                                    <li><a href="#"><i class="fa fa-angle-right"></i>contact </a>
+
+                                    <li><a href="services.php"><i class="fa fa-angle-right"></i>services </a>
                                     </li>
-                                    <li><a href="#"><i class="fa fa-angle-right"></i>history</a>
-                                    </li>
-                                    <li><a href="#"><i class="fa fa-angle-right"></i>news</a> </li>
+                                 
                                 </ul>
 
                             </div>
@@ -51,18 +51,7 @@
                         <div class="col-lg-2 col-md-2 col-xs-12 col-sm-4">
                             <div class="wrapper_second_useful wrapper_second_links">
 
-                                <ul>
-                                    <li><a href="#"><i class="fa fa-angle-right"></i>sitemap</a>
-                                    </li>
-                                    <li><a href="#"><i class="fa fa-angle-right"></i>FAQ </a>
-                                    </li>
-                                    <li><a href="#"><i class="fa fa-angle-right"></i>awards </a>
-                                    </li>
-                                    <li><a href="#"><i class="fa fa-angle-right"></i>tstimonials</a>
-                                    </li>
-                                    <li><a href="#"><i class="fa fa-angle-right"></i>career</a> </li>
-                                </ul>
-
+                              
                             </div>
                         </div>
 
@@ -72,7 +61,7 @@
                                 <img src="images/hd_line_dark.png" alt="title" class="pd_btm_3">
                                 <ul>
 									<li>
-                                     <h1>+919997865912</h1></li>
+                                     <h1>+91 9997865912</h1></li>
 									 <li><a href="mailto:info@upkeepsolar.com"><i class="flaticon-new-email-outline"></i>info@upkeepsolar.com</a>
                                     </li>
 									 <li><a href="#"><i class="flaticon-internet"></i>www.upkeepsolar.com</a>

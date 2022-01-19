@@ -117,7 +117,7 @@ Author:   Webstrot
                             <div class="sw_left_heading_wraper">
                                 <h1>Feel Free To Contact Us</h1>
                                 <img src="images/heading_line.png" alt="title">
-                                <p>Please contact us, We are sure that you can receive our reply as soon as possible. </p>
+                                <p>Please contact us, We will make sure that you can receive our reply as soon as possible. </p>
                             </div>
                             
                             <div class="row">

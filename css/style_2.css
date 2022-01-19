@@ -179,7 +179,7 @@ textarea:focus {
 }
 #return-to-top i {
     color: #f9a519;
-    margin: 0;
+    margin: 45px;
     left:0;
 	position:relative;
     top: 0px;
