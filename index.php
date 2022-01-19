@@ -1,6 +1,5 @@
-<!DOCTYPE html>
 
-<html lang="zxx">
+<html lang="english">
 
 
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
@@ -9,7 +8,7 @@
     <title>Upkeep Solar Solutions</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
     <meta name="description" content="smart pest" />
-    <meta name="keywords" content="solar system /sun & wind" />
+    <meta name="keywords" content="solar system" />
     <meta name="author" content="" />
     <meta name="MobileOptimized" content="320" />
     <!--start theme style -->
@@ -46,6 +45,8 @@
     </div>
     <!--sw header wrapper start-->
     <?php include 'includes/_menu.php' ?>
+
+
 
     <!--sw header wrapper end-->
     <!--sw slider wrapper start-->
@@ -144,7 +145,7 @@
                         <div class="sw_left_heading_wraper">
                             <h1>Discover the Advantages</h1>
                             <img src="images/heading_line.png" alt="title">
-                            <p>Donec quis magna sit amet risus vulputate maximus eget eget arcu. Praesent sed molestie tortor. </p>
+                            <p>There are lot of advantages regarding the services that we provide. </p>
                         </div>
                         <div class="sw_desc_btm_txt">
                             <div class="sw_disc_image">
@@ -152,8 +153,8 @@
                             </div>
                             <div class="sw_disc_head_text">
                                 <h5><a href="#">Solar Panels Service</a></h5>
-                                <p>Ruisque ut nunc elit. Lorem ipsum dolor Sit amet consectetur
-                                    <br> elitam purus tellus fringilla.</p>
+                                <p>Regular service and maintanace of solar panels will lead
+                                    <br> to higher generation.</p>
                             </div>
                         </div>
                         <div class="sw_desc_btm_txt">
@@ -161,9 +162,9 @@
                                  <i class="flaticon-wind-turbine"></i>
                             </div>
                             <div class="sw_disc_head_text">
-                                <h5><a href="#">Best Wind Energy</a></h5>
-                                <p>Ruisque ut nunc elit. Lorem ipsum dolor Sit amet consectetur
-                                    <br> elitam purus tellus fringilla.</p>
+                                <h5><a href="#">High working efficiency </a></h5>
+                                <p>Plant health inspection will make sure there will be 
+                                    <br> less shutdowns and major faults can be prevented.</p>
                             </div>
                         </div>
                         <div class="sw_desc_btm_txt">
@@ -172,8 +173,8 @@
                             </div>
                             <div class="sw_disc_head_text">
                                 <h5><a href="#">Extended Guarantee</a></h5>
-                                <p>Ruisque ut nunc elit. Lorem ipsum dolor Sit amet consectetur
-                                    <br> elitam purus tellus fringilla.</p>
+                                <p>Lifespan of the solar plant will be increased and
+                                    <br>overall wear & tear will be reduced.</p>
                             </div>
                         </div>
                         <div class="disc_btn">
@@ -221,7 +222,7 @@
                                     <div class="spectrum_slider_cntnt">
                                         <div class="spectrum_slider_shadow">
                                             <img src="images/spec_1.png" alt="title" class="img-responsive">
-                                            <h2><a href="#">solar system</a></h2>
+                                            <h2><a href="#">Solar PV Systems</a></h2>
                                         </div>
                                     </div>
                                 </div>
@@ -229,23 +230,16 @@
                                     <div class="spectrum_slider_cntnt">
                                         <div class="spectrum_slider_shadow">
                                             <img src="images/spec_2.png" alt="title">
-                                            <h2><a href="#">solar pv systems</a></h2>
+                                            <h2><a href="#">System Cleaning</a></h2>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="item">
-                                    <div class="spectrum_slider_cntnt">
-                                        <div class="spectrum_slider_shadow">
-                                            <img src="images/spec_3.png" alt="title" class="img-responsive">
-                                            <h2><a href="#">Wind Generators</a></h2>
-                                        </div>
-                                    </div>
-                                </div>
+                        
                                 <div class="item">
                                     <div class="spectrum_slider_cntnt">
                                         <div class="spectrum_slider_shadow">
                                             <img src="images/spec_4.png" alt="title" class="img-responsive">
-                                            <h2><a href="#">Alternative Energy</a></h2>
+                                            <h2><a href="#">Maintanace</a></h2>
                                         </div>
                                     </div>
                                 </div>
@@ -253,7 +247,7 @@
                                     <div class="spectrum_slider_cntnt">
                                         <div class="spectrum_slider_shadow">
                                             <img src="images/spec_2.png" alt="title" class="img-responsive">
-                                            <h2><a href="#">Wind Generators</a></h2>
+                                            <h2><a href="#">Power Generation</a></h2>
                                         </div>
                                     </div>
                                 </div>
@@ -270,9 +264,9 @@
             <div class="row">
                 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12 col-lg-offset-3">
                     <div class="sw_left_heading_wraper sw_center_heading_wrapper">
-                        <h1>Why Choose Us solar Energy</h1>
+                        <h1>Why Choose Us </h1>
                         <img src="images/heading_line.png" alt="title">
-                        <p>Donec quis magna sit amet risus vulputate maximus eget eget arcu. Praesent sed molestie tortor. </p>
+                        <p>We are currently most leading company for solar system servicing and maintanace</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12">
@@ -284,8 +278,8 @@
                             </div>
 
                             <div class="chose_icon_content_left">
-                                <h4><a href="#">Long Time to Use</a></h4>
-                                <p>Quisque ut nunc elit. Lorem ipsum dolor Sit amet consectetur.</p>
+                                <h4><a href="#">Time Efficient</a></h4>
+                                <p>It'd save you time if you give the responsibity of your solar to us.</p>
                             </div>
 
                         </div>
@@ -296,8 +290,8 @@
                             </div>
 
                             <div class="chose_icon_content_left">
-                                <h4><a href="#">Alaways Clean Energy</a></h4>
-                                <p>Quisque ut nunc elit. Lorem ipsum dolor Sit amet consectetur.</p>
+                                <h4><a href="#">Solar Plant Cleaning</a></h4>
+                                <p>Regular cleaning of your solar plant is very important.</p>
                             </div>
 
                         </div>
@@ -308,8 +302,8 @@
                             </div>
 
                             <div class="chose_icon_content_left">
-                                <h4><a href="#">Energy Can Be Reused</a></h4>
-                                <p>Quisque ut nunc elit. Lorem ipsum dolor Sit amet consectetur.</p>
+                                <h4><a href="#">Improved Power Generation</a></h4>
+                                <p>So many factors are responsible for power generation which needs to be checked.</p>
                             </div>
 
                         </div>
@@ -324,8 +318,8 @@
                     <div class="chose_text_wrapper_right">
                         <div class="chose_icon_wrapper_list">
                             <div class="icon_content_right">
-                                <h4><a href="#">Used for Many Purposes</a></h4>
-                                <p>Quisque ut nunc elit. Lorem ipsum dolor Sit amet consectetur.</p>
+                                <h4><a href="#">Economical Plans</a></h4>
+                                <p>Very much cheap as compared to your time and health of your PV system.</p>
                             </div>
 
                             <div class="chose_icon_img_list">
@@ -336,8 +330,8 @@
                         <div class="chose_icon_wrapper_list">
 
                             <div class="icon_content_right">
-                                <h4><a href="#">Low Installation Costs</a></h4>
-                                <p>Quisque ut nunc elit. Lorem ipsum dolor Sit amet consectetur.</p>
+                                <h4><a href="#">Regular Maintanace</a></h4>
+                                <p>Components of PV system needs maintanace to increase life span. </p>
                             </div>
 
                             <div class="chose_icon_img_list">
@@ -348,8 +342,8 @@
                         <div class="chose_icon_wrapper_list">
 
                             <div class="icon_content_right">
-                                <h4><a href="#">Easy Installation</a></h4>
-                                <p>Quisque ut nunc elit. Lorem ipsum dolor Sit amet consectetur.</p>
+                                <h4><a href="#">Technical Support</a></h4>
+                                <p>Any kind of issues and shutdowns of your PV system will be resolved.</p>
                             </div>
 
                             <div class="chose_icon_img_list">
@@ -366,8 +360,8 @@
                                 <img src="images/ser_img_3.png" alt="title">
                             </div>
                             <div class="icon_content_right">
-                                <h4><a href="#">Used for Many Purposes</a></h4>
-                                <p>Quisque ut nunc elit. Lorem ipsum dolor Sit amet consectetur.</p>
+                                <h4><a href="#">Economical Plans</a></h4>
+                                <p>Very much cheap as compared to your time and health of your PV system.</p>
                             </div>
                         </div>
                         <div class="chose_icon_wrapper_list">
@@ -377,8 +371,8 @@
                             </div>
 
                             <div class="icon_content_right">
-                                <h4><a href="#">Low Installation Costs</a></h4>
-                                <p>Quisque ut nunc elit. Lorem ipsum dolor Sit amet consectetur.</p>
+                                <h4><a href="#">Regular Maintanace</a></h4>
+                                <p>Components of PV system needs maintanace to increase life span.</p>
                             </div>
                         </div>
                         <div class="chose_icon_wrapper_list wow">
@@ -387,8 +381,8 @@
 
                             </div>
                             <div class="icon_content_right">
-                                <h4><a href="#">Easy Installation</a></h4>
-                                <p>Quisque ut nunc elit. Lorem ipsum dolor Sit amet consectetur.</p>
+                                <h4><a href="#">Technical Support</a></h4>
+                                <p>Any kind of issues and shutdowns of your PV system will be resolved.</p>
                             </div>
                         </div>
                     </div>
@@ -427,452 +421,13 @@
     </div>
     <!--sw newsletter wrapper end-->
 	 <!-- sw project section start-->
-    <div class="sw_project_wrapper">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12 col-lg-offset-3">
-                    <div class="sw_left_heading_wraper sw_center_heading_wrapper">
-                        <h1>Our Incredible Projects</h1>
-                        <img src="images/heading_line.png" alt="title">
-                        <p>Donec quis magna sit amet risus vulputate maximus eget eget arcu. Praesent sed molestie tortor. </p>
-                    </div>
-                </div>
-
-                <div class="gallery-area">
-
-                    <div id="gallery">
-                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                            <div class="filter filter-demo portfolio-nav galery_2_wraper my_slide_filter">
-                                <ul>
-                                    <li class="button galery_hover_div is-checked waves-effect waves-light waves-ripple" data-filter="*">
-                                        all
-                                    </li>
-                                    <li class="button galery_hover_div waves-effect waves-light waves-ripple" data-filter=".branding">
-                                        household
-                                    </li>
-
-                                    <li class="button galery_hover_div waves-effect waves-light waves-ripple" data-filter=".ux">
-                                        organization</li>
-                                    <li class="button galery_hover_div waves-effect waves-light waves-ripple" data-filter=".rresentation">
-                                        research</li>
-
-                                    <li class="button galery_hover_div waves-effect waves-light waves-ripple" data-filter=".web">
-                                        solar pannels</li>
-
-                                    <li class="button galery_hover_div waves-effect waves-light waves-ripple" data-filter=".photoshop">
-                                        wind energy</li>
-                                </ul>
-                            </div>
-                        </div>
-
-                        <div class="grid galler_2_btm_section">
-
-                            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 grid-item rresentation branding * project_pdr_btm">
-                                <div class="gallery-list img-effect zoom-slow">
-                                    <div class="sp_img_box_overlay sp_img_index_overlay"></div>
-                                    <div class="over">
-
-                                        <img src="images/pj_1.jpg" alt="" class="img-responsive" />
-
-                                        <div class="tab_img_overlay tab_img_overlay_2 tab_img_overlay_3">
-                                            <a href="images/pj_1.jpg" class="venobox info" data-title="PROJECT TITTLE" data-gall="gall12">
-                                                <i class="fa fa-arrows-alt"></i> </a>
-                                            <h1>project title here</h1>
-                                            <p>(solar pannels)</p>
-
-                                        </div>
-
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 grid-item rresentation web branding * project_pdr_btm">
-                                <div class="gallery-list img-effect zoom-slow">
-                                    <div class="sp_img_box_overlay sp_img_index_overlay"></div>
-                                    <div class="over">
-
-                                        <img src="images/pj_4.jpg" alt="" class="img-responsive" />
-                                        <div class="tab_img_overlay tab_img_overlay_2 tab_img_overlay_3">
-
-                                            <a href="images/pj_4.jpg" class="venobox info" data-title="PROJECT TITTLE" data-gall="gall12">
-                                                <i class="fa fa-arrows-alt"></i> </a>
-                                            <h1>project title here</h1>
-                                            <p>(solar pannels)</p>
-                                        </div>
-
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 grid-item web branding project_pdr_btm">
-                                <div class="gallery-list img-effect zoom-slow">
-                                    <div class="sp_img_box_overlay sp_img_index_overlay"></div>
-                                    <div class="over">
-
-                                        <img src="images/pj_6.jpg" alt="" class="img-responsive" />
-                                        <div class="tab_img_overlay tab_img_overlay_2 tab_img_overlay_3">
-
-                                            <a href="images/pj_6.jpg" class="venobox info" data-title="PROJECT TITTLE" data-gall="gall12">
-                                                <i class="fa fa-arrows-alt"></i> </a>
-                                            <h1>project title here</h1>
-                                            <p>(solar pannels)</p>
-                                        </div>
-
-                                    </div>
-                                </div>
-
-                            </div>
-                            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 grid-item web ux branding project_pdr_btm">
-                                <div class="gallery-list img-effect zoom-slow">
-                                    <div class="sp_img_box_overlay sp_img_index_overlay"></div>
-                                    <div class="over">
-
-                                        <img src="images/pj_11.jpg" alt="" class="img-responsive" />
-                                        <div class="tab_img_overlay tab_img_overlay_2 tab_img_overlay_3">
-
-                                            <a href="images/pj_11.jpg" class="venobox info" data-title="PROJECT TITTLE" data-gall="gall12">
-                                                <i class="fa fa-arrows-alt"></i> </a>
-                                            <h1>project title here</h1>
-                                            <p>(solar pannels)</p>
-                                        </div>
-
-                                    </div>
-                                </div>
-
-                            </div>
-                           
-                            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 grid-item web branding ux project_pdr_btm">
-                                <div class="gallery-list img-effect zoom-slow">
-                                    <div class="sp_img_box_overlay sp_img_index_overlay"></div>
-                                    <div class="over">
-
-                                        <img src="images/pj_9.jpg" alt="" class="img-responsive" />
-                                        <div class="tab_img_overlay tab_img_overlay_2 tab_img_overlay_3">
-
-                                            <a href="images/pj_9.jpg" class="venobox info" data-title="PROJECT TITTLE" data-gall="gall12">
-                                                <i class="fa fa-arrows-alt"></i> </a>
-                                            <h1>project title here</h1>
-                                            <p>(solar pannels)</p>
-                                        </div>
-
-                                    </div>
-                                </div>
-
-                            </div>
-                            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 grid-item photoshop branding ux project_pdr_btm">
-                                <div class="gallery-list img-effect zoom-slow">
-                                    <div class="sp_img_box_overlay sp_img_index_overlay"></div>
-                                    <div class="over">
-
-                                        <img src="images/pj_10.jpg" alt="" class="img-responsive" />
-                                        <div class="tab_img_overlay tab_img_overlay_2 tab_img_overlay_3">
-
-                                            <a href="images/pj_10.jpg" class="venobox info" data-title="PROJECT TITTLE" data-gall="gall12">
-                                                <i class="fa fa-arrows-alt"></i> </a>
-                                            <h1>project title here</h1>
-                                            <p>(solar pannels)</p>
-                                        </div>
-
-                                    </div>
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                </div>
-               
-            </div>
-        </div>
-    </div>
     <!-- sw project section end-->
 	<!--sw testimonial wrapper start-->
-    <div class="sw_testimonial_wrapper">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12 col-lg-offset-3">
-                    <div class="sw_left_heading_wraper dark_heading_center">
-                        <h1>Why Choose Us solar Energy</h1>
-                        <img src="images/heading_line.png" alt="title">
-                        <p>Donec quis magna sit amet risus vulputate maximus eget eget arcu. Praesent sed molestie tortor. </p>
-                    </div>
-                </div>
-                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                    <div class="sw_testimonials_slider">
-                        <div class="owl-carousel owl-theme">
-                            <div class="item">
-                                <div class="row">
-                                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                                        <div class="sw_testimonials_slider_box">
-                                            <img src="images/testi_2.png" alt="Testimonial">
-                                            <div class="sw_testimonials_slider_box_text">
-                                                <p>Donec quis magna sit amet risus vulputate set eget arcu Praesent sed molestie tortor ed ulla suscipit lectus. Lorem ipsum dolor sit amet.</p>
-                                                <h4>Ajay S.</h4>
-                                                <h6>(CEO Webstrot Pvt Ltd.)</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 hidden-xs">
-                                        <div class="sw_testimonials_slider_box">
-                                            <img src="images/testi_1.png" alt="Testimonial">
-                                            <div class="sw_testimonials_slider_box_text">
-                                                <p>Donec quis magna sit amet risus vulputate set eget arcu Praesent sed molestie tortor ed ulla suscipit lectus. Lorem ipsum dolor sit amet.</p>
-                                                <h4>Akshay H.</h4>
-                                                <h6>(COO Webstrot Pvt Ltd.)</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="row">
-                                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 hidden-xs">
-                                        <div class="sw_testimonials_slider_box">
-                                            <img src="images/testi_2.png" alt="Testimonial">
-                                            <div class="sw_testimonials_slider_box_text">
-                                                <p>Donec quis magna sit amet risus vulputate set eget arcu Praesent sed molestie tortor ed ulla suscipit lectus. Lorem ipsum dolor sit amet.</p>
-                                                <h4>Ajay S.</h4>
-                                                <h6>(CEO Webstrot Pvt Ltd.)</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                                        <div class="sw_testimonials_slider_box">
-                                            <img src="images/testi_1.png" alt="Testimonial">
-                                            <div class="sw_testimonials_slider_box_text">
-                                                <p>Donec quis magna sit amet risus vulputate set eget arcu Praesent sed molestie tortor ed ulla suscipit lectus. Lorem ipsum dolor sit amet.</p>
-                                                <h4>Akshay H.</h4>
-                                                <h6>(COO Webstrot Pvt Ltd.)</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="row">
-                                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12  hidden-xs">
-                                        <div class="sw_testimonials_slider_box">
-                                            <img src="images/testi_2.png" alt="Testimonial">
-                                            <div class="sw_testimonials_slider_box_text">
-                                                <p>Donec quis magna sit amet risus vulputate set eget arcu Praesent sed molestie tortor ed ulla suscipit lectus. Lorem ipsum dolor sit amet.</p>
-                                                <h4>Ajay S.</h4>
-                                                <h6>(CEO Webstrot Pvt Ltd.)</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                                        <div class="sw_testimonials_slider_box">
-                                            <img src="images/testi_1.png" alt="Testimonial">
-                                            <div class="sw_testimonials_slider_box_text">
-                                                <p>Donec quis magna sit amet risus vulputate set eget arcu Praesent sed molestie tortor ed ulla suscipit lectus. Lorem ipsum dolor sit amet.</p>
-                                                <h4>Akshay H.</h4>
-                                                <h6>(COO Webstrot Pvt Ltd.)</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    
 
     <!--sw testimonial wrapper end-->
 	  <!--sw best product wrapper start-->
-    <div class="sw_best_product_wrapper sw_shop_2_product">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                    <div class="sw_left_heading_wraper">
-                        <h1>related Products</h1>
-                        <img src="images/heading_line.png" alt="title">
-                    </div>
-                </div>
-
-                <!-- slider start -->
-                <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 sw_spectrm_padding">
-                    <div class="best_product_slider_wrapper">
-                        <div class="owl-carousel owl-theme">
-                            <div class="item">
-                                <div class="sw_product_box_wrapper sw_shop_sider_pder">
-                                    <div class="sw_product_indx_img_wrapper">
-
-                                        <img src="images/prdct_4.png" alt="shop_img" class="img-responsive" />
-                                    </div>
-
-                                    <div class="sw_product_indx_img_cont_wrapper sw_product_indx_img_cont_wrapper_2">
-                                        <div class="sw_pdct_img">
-                                            <img src="images/line.png" alt="img" />
-                                        </div>
-                                        <h5>$  156</h5>
-                                        <h1><a href="#">SolarWorld 280</a></h1>
-
-                                        <div class="cc_li_cont_wrapper">
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star-o"></i>
-                                            <i class="fa fa-star-o"></i>
-                                        </div>
-                                        <div class="cc_li_img_overlay">
-                                            <div class="cc_li_img_text">
-                                                <ul>
-                                                    <li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-heart"></i></a></li>
-
-                                                    <li><a href="#"><i class="fa fa-expand"></i></a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="sw_product_box_wrapper sw_shop_sider_pder">
-                                    <div class="sw_product_indx_img_wrapper">
-
-                                        <img src="images/prdct_1.jpg" alt="shop_img" class="img-responsive" />
-                                    </div>
-
-                                    <div class="sw_product_indx_img_cont_wrapper sw_product_indx_img_cont_wrapper_2">
-                                        <div class="sw_pdct_img">
-                                            <img src="images/line.png" alt="img" />
-                                        </div>
-                                        <h5>$  156</h5>
-                                        <h1><a href="#">canadian solar 280</a></h1>
-
-                                        <div class="cc_li_cont_wrapper">
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star-o"></i>
-                                            <i class="fa fa-star-o"></i>
-                                        </div>
-                                        <div class="cc_li_img_overlay">
-                                            <div class="cc_li_img_text">
-                                                <ul>
-                                                    <li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-heart"></i></a></li>
-
-                                                    <li><a href="#"><i class="fa fa-expand"></i></a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="sw_product_box_wrapper sw_shop_sider_pder">
-                                    <div class="sw_product_indx_img_wrapper">
-
-                                        <img src="images/prdct_2.jpg" alt="shop_img" class="img-responsive" />
-                                    </div>
-
-                                    <div class="sw_product_indx_img_cont_wrapper sw_product_indx_img_cont_wrapper_2">
-                                        <div class="sw_pdct_img">
-                                            <img src="images/line.png" alt="img" />
-                                        </div>
-                                        <h5>$  156</h5>
-                                        <h1><a href="#">AIR sun 280</a></h1>
-
-                                        <div class="cc_li_cont_wrapper">
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star-o"></i>
-                                            <i class="fa fa-star-o"></i>
-                                        </div>
-                                        <div class="cc_li_img_overlay">
-                                            <div class="cc_li_img_text">
-                                                <ul>
-                                                    <li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-heart"></i></a></li>
-
-                                                    <li><a href="#"><i class="fa fa-expand"></i></a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="sw_product_box_wrapper sw_shop_sider_pder">
-                                    <div class="sw_product_indx_img_wrapper">
-
-                                        <img src="images/prdct_6.png" alt="shop_img" class="img-responsive" />
-                                    </div>
-
-                                    <div class="sw_product_indx_img_cont_wrapper sw_product_indx_img_cont_wrapper_2">
-                                        <div class="sw_pdct_img">
-                                            <img src="images/line.png" alt="img" />
-                                        </div>
-                                        <h5>$  156</h5>
-                                        <h1><a href="#">SolarWorld 280</a></h1>
-
-                                        <div class="cc_li_cont_wrapper">
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star-o"></i>
-                                            <i class="fa fa-star-o"></i>
-                                        </div>
-                                        <div class="cc_li_img_overlay">
-                                            <div class="cc_li_img_text">
-                                                <ul>
-                                                    <li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-heart"></i></a></li>
-
-                                                    <li><a href="#"><i class="fa fa-expand"></i></a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="sw_product_box_wrapper sw_shop_sider_pder">
-                                    <div class="sw_product_indx_img_wrapper">
-
-                                        <img src="images/prdct_4.png" alt="shop_img" class="img-responsive" />
-                                    </div>
-
-                                    <div class="sw_product_indx_img_cont_wrapper sw_product_indx_img_cont_wrapper_2">
-                                        <div class="sw_pdct_img">
-                                            <img src="images/line.png" alt="img" />
-                                        </div>
-                                        <h5>$  156</h5>
-                                        <h1><a href="#">SolarWorld 280</a></h1>
-
-                                        <div class="cc_li_cont_wrapper">
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star-o"></i>
-                                            <i class="fa fa-star-o"></i>
-                                        </div>
-                                        <div class="cc_li_img_overlay">
-                                            <div class="cc_li_img_text">
-                                                <ul>
-                                                    <li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-heart"></i></a></li>
-
-                                                    <li><a href="#"><i class="fa fa-expand"></i></a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+   
     <!--sw best product wrapper end-->
       <!--sw leads wrapper start-->
     <div class="sw_leads_wrapper sw_leads_index">
@@ -884,7 +439,7 @@
                         <div class="sw_left_heading_wraper">
                             <h1>All Roads Lead to Solar!</h1>
                             <img src="images/heading_line.png" alt="title">
-                            <p>Donec quis magna sit amet risus vulputate maximus eget eget arcu. Praesent sed molestie tortor. </p>
+                            
                         </div>
 
                         <div class="sw_leads_accordian">
@@ -892,14 +447,14 @@
                                 <div class="panel panel-default">
                                     <div class="panel-heading desktop">
                                         <h4 class="panel-title">
-											<a data-toggle="collapse" data-parent="#accordionFifteenLeft" href="#collapseFifteenLeftone" aria-expanded="true">The Cost Benefit Ratio: </a>
+											<a data-toggle="collapse" data-parent="#accordionFifteenLeft" href="#collapseFifteenLeftone" aria-expanded="true">What types of services do you offer? </a>
 										</h4>
                                     </div>
                                     <div id="collapseFifteenLeftone" class="panel-collapse collapse in" aria-expanded="true" role="tabpanel">
                                         <div class="panel-body">
 
                                             <div class="panel_cont">
-                                                <p>Akshay Handge dolor sit amet, consectetur adipisicing elido eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud.</p>
+                                                <p>Upkeep offers end to end services for a rooftop solar plant including panel cleaning, plant health inspection, site audits, monitoring and commissioning support and inverter error diagnosis and repair. We also serve any other on-demand issue for solar panels, inverters, combiner boxes or other equipment.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -908,14 +463,14 @@
                                 <div class="panel panel-default">
                                     <div class="panel-heading horn">
                                         <h4 class="panel-title">
-											<a class="collapsed" data-toggle="collapse" data-parent="#accordionFifteenLeft" href="#collapseFifteenLeftTwo" aria-expanded="false">Why Solar Energy ?</a>
+											<a class="collapsed" data-toggle="collapse" data-parent="#accordionFifteenLeft" href="#collapseFifteenLeftTwo" aria-expanded="false">Why should I use your services?</a>
 										</h4>
                                     </div>
                                     <div id="collapseFifteenLeftTwo" class="panel-collapse collapse" aria-expanded="false" role="tabpanel">
                                         <div class="panel-body">
 
                                             <div class="panel_cont">
-                                                <p>Akshay Handge dolor sit amet, consectetur adipisicing elido eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud.</p>
+                                                <p>We are trying our best to define the gold standards of service in solar industry. Our expert team has 5+ years of industry experience and we work with a trained hyperlocal engineer so that we can get on your site and solve it the quickest. We have defined detailed standard operating procedure for each issue which makes our services stand out from the rest.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -924,14 +479,14 @@
                                 <div class="panel panel-default">
                                     <div class="panel-heading bell">
                                         <h4 class="panel-title">
-											<a class="collapsed" data-toggle="collapse" data-parent="#accordionFifteenLeft" href="#collapseFifteenLeftThree" aria-expanded="false">Advantage Of  Solar</a>
+											<a class="collapsed" data-toggle="collapse" data-parent="#accordionFifteenLeft" href="#collapseFifteenLeftThree" aria-expanded="false">Can I have a package of all the services?</a>
 										</h4>
                                     </div>
                                     <div id="collapseFifteenLeftThree" class="panel-collapse collapse" aria-expanded="false" role="tabpanel">
                                         <div class="panel-body">
 
                                             <div class="panel_cont">
-                                                <p>Akshay Handge dolor sit amet, consectetur adipisicing elido eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud.</p>
+                                                <p>Absolutely. We recommend you to try out our on-demand services once. You can contact our support team for longer periods of timepackages.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -939,14 +494,14 @@
                                 <div class="panel panel-default">
                                     <div class="panel-heading bell">
                                         <h4 class="panel-title">
-											<a class="collapsed" data-toggle="collapse" data-parent="#accordionFifteenLeft" href="#collapseFifteenLeftFour" aria-expanded="false">Solar System Benefits?</a>
+											<a class="collapsed" data-toggle="collapse" data-parent="#accordionFifteenLeft" href="#collapseFifteenLeftFour" aria-expanded="false">What is the cost of single service request?</a>
 										</h4>
                                     </div>
                                     <div id="collapseFifteenLeftFour" class="panel-collapse collapse" aria-expanded="false" role="tabpanel">
                                         <div class="panel-body">
 
                                             <div class="panel_cont">
-                                                <p>Akshay Handge dolor sit amet, consectetur adipisicing elido eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud.</p>
+                                                <p>The cost of service depends on the plant size, the issue category and whether we are able to resolve the issue remotely or a site visit is required. Once a ticket is raised, our support executive calls you back in matter of minutes to understand the issue better and get back to you with the cost of the same.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -966,127 +521,7 @@
     </div>
     <!-- sw leads section end-->
 	 <!-- sw pricing section start-->
-    <div class="sw_pricing_wrapper">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12 col-lg-offset-3">
-                    <div class="sw_left_heading_wraper sw_center_heading_wrapper pd_0">
-                        <h1>Affordable Pricing Packages</h1>
-                        <img src="images/heading_line.png" alt="title">
-                        <p>Donec quis magna sit amet risus vulputate maximus eget eget arcu. Praesent sed molestie tortor. </p>
-                    </div>
-                </div>
-
-                <div class="pricing_box1_wrapper">
-                    <div class="box1_heading_wrapper box1_orange">
-
-                        <h1><sup>$</sup>75<span> /  month</span></h1>
-                        <div class="jp_pricing_label_wrapper">
-
-                        </div>
-                    </div>
-
-                    <div class="price_box1_wrapper">
-                        <div class="disc_btn pricing_btn">
-                            <ul>
-                                <li>
-                                    <a href="#!" class="waves-effect waves-light waves-ripple">basic</a>
-                                </li>
-                            </ul>
-
-                        </div>
-
-                        <div class="pricing_btm_txt_wrapper txt_clr_oange">
-                            <div class="pricing_cont">
-                                <p>Battery Capacity 11 - 15 kWh</p>
-                                <ul>
-                                    <li> free service</li>
-                                    <li>ranted battery</li>
-                                    <li>free installation</li>
-                                    <li>24 hour support</li>
-
-                                </ul>
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-
-                <div class="pricing_box1_wrapper sw_pricing_box_transition">
-                    <div class="box1_heading_wrapper box1_blue">
-
-                        <h1><sup>$</sup>95<span> /  month</span></h1>
-                        <div class="jp_pricing_label_wrapper jp_pricing_label_blue">
-
-                        </div>
-                    </div>
-                    <div class="price_box1_wrapper price_box1_wrapper_center">
-                        <div class="disc_btn pricing_btn">
-                            <ul>
-                                <li>
-                                    <a href="#!" class="waves-effect waves-light waves-ripple">business</a>
-                                </li>
-                            </ul>
-
-                        </div>
-
-                        <div class="pricing_btm_txt_wrapper txt_clr_blue">
-                            <div class="pricing_cont">
-                                <p>Battery Capacity 16 - 20 kWh</p>
-                                <ul>
-                                    <li> free service</li>
-                                    <li>ranted battery</li>
-                                    <li>free installation</li>
-                                    <li>24 hour support</li>
-
-                                </ul>
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-
-                <div class="pricing_box1_wrapper padder_btm_0">
-                    <div class="box1_heading_wrapper box1_green">
-
-                        <h1><sup>$</sup>125<span> /  month</span></h1>
-                        <div class="jp_pricing_label_wrapper jp_pricing_label_green">
-
-                        </div>
-                    </div>
-
-                    <div class="price_box1_wrapper">
-                        <div class="disc_btn pricing_btn">
-                            <ul>
-                                <li>
-                                    <a href="#!" class="waves-effect waves-light waves-ripple">ultimate</a>
-                                </li>
-                            </ul>
-
-                        </div>
-
-                        <div class="pricing_btm_txt_wrapper txt_clr_green">
-                            <div class="pricing_cont">
-                                <p>Battery Capacity all kWh</p>
-                                <ul>
-                                    <li> free service</li>
-                                    <li>ranted battery</li>
-                                    <li>free installation</li>
-                                    <li>24 hour support</li>
-
-                                </ul>
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-
-            </div>
-        </div>
-    </div>
+    
     <!-- sw pricing section end-->
 	 <!-- sw contact form section start-->
     <div class="sw_contact_form_wrapper sw_contact_form_padder sw_contact_index">
@@ -1103,27 +538,27 @@
                         <p>Donec quis magna sit amet risus vulputate maximus eget eget arcu. Praesent sed molestie tortor. </p>
                     </div>
                     <div class="row">
-                        <form>
+                        <form method="post" action="contact-form-handler.php">
                             <div class="cont_main_section">
 
                                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                                     <div class="contect_form1">
-                                        <input type="text" name="full_name" placeholder="Name*" class="require">
+                                        <input class="white-plc" type="text" name="full_name" placeholder="Name*" class="require">
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                                     <div class="contect_form1">
-                                        <input type="email" name="email" placeholder="Email*" class="require" data-valid="email" data-error="Email should be valid.">
+                                        <input class="white-plc" type="email" name="email" placeholder="Email*" class="require" data-valid="email" data-error="Email should be valid.">
                                     </div>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                     <div class="contect_form1">
-                                        <input type="text" name="subject" placeholder="Subject">
+                                        <input class="white-plc" type="text" name="phone" placeholder="Mobile No.*">
                                     </div>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                     <div class="contect_form4">
-                                        <textarea rows="5" name="message" placeholder="Message" class="require"></textarea>
+                                        <textarea class="white-plc" rows="5" name="message" placeholder="Message" class="require"></textarea>
                                     </div>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -1142,95 +577,7 @@
     </div>
 
     <!-- sw contact form section end-->
-	 <div class="sw_blog_categories_2_wrapper sw_blog_2_wrapper pst">
-
-        <div class="container">
-            <div class="row">
-			   <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12 col-lg-offset-3">
-                    <div class="sw_left_heading_wraper sw_center_heading_wrapper">
-                        <h1>latest news today</h1>
-                        <img src="images/heading_line.png" alt="title">
-                        <p>Donec quis magna sit amet risus vulputate maximus eget eget arcu. Praesent sed molestie tortor. </p>
-                    </div>
-                </div>
-				<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-
-                        <div class="btc_blog_indx_box_wrapper btc_blog_padder btc_index_blog_pader">
-                            <div class="btc_blog_indx_img_wrapper">
-                                <img src="images/news_1.jpg" alt="blog_img">
-                                <div class="btc_blog_indx_date_wrapper">
-                                    <a href="#!" class="waves-effect waves-light waves-ripple"><i class="fa fa-long-arrow-right"></i></a>
-                                </div>
-                            </div>
-                            <div class="btc_blog_indx_cont_wrapper">
-                                <p>june 16,2018</p>
-                                <h5>Electricity is on track for what
-about decarbonising heat?</h5>
-
-                            </div>
-                            <div class="btc_blog_indx_cont_bottom">
-                                <div class="btc_blog_indx_cont_bottom_left">
-                                    <p><i class="fa fa-user"></i> &nbsp;<a href="#">by Akshay</a></p>
-                                </div>
-                                <div class="btc_blog_indx_cont_bottom_right">
-                                    <p><i class="fa fa-comments-o"></i> &nbsp;<a href="#">04 Comm.</a></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-					<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-
-                        <div class="btc_blog_indx_box_wrapper btc_blog_padder btc_index_blog_pader">
-                            <div class="btc_blog_indx_img_wrapper">
-                                <img src="images/news_2.jpg" alt="blog_img">
-                                <div class="btc_blog_indx_date_wrapper">
-                                    <a href="#!" class="waves-effect waves-light waves-ripple"><i class="fa fa-long-arrow-right"></i></a>
-                                </div>
-                            </div>
-                            <div class="btc_blog_indx_cont_wrapper">
-                                <p>june 16,2018</p>
-                                <h5>Electricity is on track for what
-about decarbonising heat?</h5>
-
-                            </div>
-                            <div class="btc_blog_indx_cont_bottom">
-                                <div class="btc_blog_indx_cont_bottom_left">
-                                    <p><i class="fa fa-user"></i> &nbsp;<a href="#">by Akshay</a></p>
-                                </div>
-                                <div class="btc_blog_indx_cont_bottom_right">
-                                    <p><i class="fa fa-comments-o"></i> &nbsp;<a href="#">04 Comm.</a></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-					<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-
-                        <div class="btc_blog_indx_box_wrapper btc_blog_padder">
-                            <div class="btc_blog_indx_img_wrapper">
-                                <img src="images/news_3.jpg" alt="blog_img">
-                                <div class="btc_blog_indx_date_wrapper">
-                                    <a href="#!" class="waves-effect waves-light waves-ripple"><i class="fa fa-long-arrow-right"></i></a>
-                                </div>
-                            </div>
-                            <div class="btc_blog_indx_cont_wrapper">
-                                <p>june 16,2018</p>
-                                <h5>Electricity is on track for what
-about decarbonising heat?</h5>
-
-                            </div>
-                            <div class="btc_blog_indx_cont_bottom">
-                                <div class="btc_blog_indx_cont_bottom_left">
-                                    <p><i class="fa fa-user"></i> &nbsp;<a href="#">by Akshay</a></p>
-                                </div>
-                                <div class="btc_blog_indx_cont_bottom_right">
-                                    <p><i class="fa fa-comments-o"></i> &nbsp;<a href="#">04 Comm.</a></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-             </div>
-		</div>
-     </div>
+	
 	 <!-- sw blog wrapper end-->
 	   <!--sw our newsletter wrapper start-->
     <div class="sw_our_newsletter_wrapper">
@@ -1262,57 +609,6 @@ about decarbonising heat?</h5>
         </div>
 
     </div>
-    <!-- sw our newsletter section end-->
-    <!-- sw partners section start-->
-    <!-- <div class="sw_partners_wrapper">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                    <div class="sw_left_heading_wraper">
-                        <h1>Our Partners</h1>
-                        <img src="images/heading_line.png" alt="title">
-                    </div>
-                </div>
-                <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 sw_spectrm_padding">
-                    <div class="partners_slider_wrapper">
-                        <div class="owl-carousel owl-theme">
-                            <div class="item">
-                                <div class="lr_prt_img_wrapper">
-                                    <img src="images/partner_1.png" alt="partner_img">
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="lr_prt_img_wrapper">
-                                    <img src="images/partner_2.png" alt="partner_img">
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="lr_prt_img_wrapper">
-                                    <img src="images/partner_3.png" alt="partner_img">
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="lr_prt_img_wrapper">
-                                    <img src="images/partner_4.png" alt="partner_img">
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="lr_prt_img_wrapper">
-                                    <img src="images/partner_5.png" alt="partner_img">
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="lr_prt_img_wrapper">
-                                    <img src="images/partner_2.png" alt="partner_img">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!-- sw partners section end-->
     <!-- sw footer section start-->
     <?php include 'includes/_footer.php' ?>
     
@@ -1444,6 +740,4 @@ jsFileLocation:"revolution/js/",
 	</script>
 </body>
 
-
-<!-- Mirrored from webstrot.com/html/typhoon/typhoon_html/index_2.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 Nov 2021 06:36:29 GMT -->
 </html>

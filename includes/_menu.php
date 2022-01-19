@@ -1,7 +1,27 @@
 
-    <!--sw header wrapper start-->
+<head>
+   <link rel="stylesheet" type="text/css" href="../css/animate.css">
+    <link rel="stylesheet" type="text/css" href="../css/materialize.min.css">
+    <link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="../css/meanmenu.css">
+    <link rel="stylesheet" type="text/css" href="../css/slicknav.min.css" />
+    <link rel="stylesheet" type="text/css" href="../css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="../css/owl.carousel.css">
+    <link rel="stylesheet" type="text/css" href="../css/magnific-popup.css">
+    <link rel="stylesheet" type="text/css" href="../venobox/css/venobox.css" />
+    <link rel="stylesheet" type="text/css" href="../css/owl.theme.default.css">
+    <link rel="stylesheet" type="text/css" href="../css/flaticon.css">
+    <link rel="stylesheet" type="text/css" href="../css/fonts.css" />
+    <link rel="stylesheet" type="text/css" href="../css/camera.css">
+	<link rel="stylesheet" type="text/css" href="../js/plugin/rs_slider/layers.css" />
+    <link rel="stylesheet" type="text/css" href="../js/plugin/rs_slider/navigation.css" />
+    <link rel="stylesheet" type="text/css" href="../js/plugin/rs_slider/settings.css" />
+    <link rel="stylesheet" type="text/css" href="../css/style_2.css" />
+    <link rel="stylesheet" type="text/css" href="../css/responsive_2.css" />
+    <link rel="stylesheet" type="text/css" href="../css/custom.css">
+</head>
 
-    <div class="transparent-menu header-area hidden-menu-bar stick">
+<div class="transparent-menu header-area hidden-menu-bar stick">
 
         <div class="container">
 
@@ -9,112 +29,29 @@
                 <div class="main-menu-wrapper clear-fix">
 
                     <div class="logo float-left">
-                        <a href="index.php"><img src="images/inner_logo.png" class="img-responsive" alt="logo"></a>
+                        <a href="index.php" class="full-logo"><img src="images/inner_logo.png" class="img-responsive" alt="logo"></a>
+                        <a href="index.php" class="mobile-logo"><img src="images/mobile_logo.png" class="img-responsive" alt="logo"></a>
                     </div>
 
                 </div>
                 <div class="sc_navigation hidden-sm hidden-xs">
                     <nav id="primary-nav" class="dropdown nav_left_margin">
                         <ul class="dropdown menu navigation cart_dropdown_wrapper">
-                            <li><a href="index_2.html" title="">Home</a>
+                            <li><a href="index.php" title="">Home</a>
                                 </li>
-                                <li><a href="about_us.html" title="">about us</a>
-                                </li>
-                                <li><a href="services.html" title="">services</a>
-                                <!-- </li>
-                                <li><a href="project_2.html" title="">projects</a>
-								 <ul>
-                                        <li class="dropdown_hover"><a href="project_2.html" title=""> project 2</a></li>
-                                        <li class="dropdown_hover"><a href="project_3.html" title=""> project 3</a></li>
-                                        <li class="dropdown_hover"><a href="project_4.html" title=""> project 4</a></li>
-                                        <li class="dropdown_hover"><a href="project_fullwidth.html" title="">project fullwidth</a></li>
-                                        <li class="dropdown_hover"><a href="project_single.html" title=""> project single</a></li>
+                                <li><a href="services.php" title="">Services</a>
 
-                                    </ul>
-                                </li> -->
-                                <!-- <li><a href="team.html" title="">team</a>
-                                    <ul>
-                                        <li class="dropdown_hover"><a href="team.html" title=""> team</a></li>
-                                        <li class="dropdown_hover"><a href="team_details.html" title="">team details</a></li>
-                                    </ul>
                                 </li>
-                                <li><a href="blog_single.html" title="">blog</a>
-                                    <ul>
-                                        <li class="dropdown_hover"><a href="blog_categories.html" title=""> blog categories</a></li>
-                                        <li class="dropdown_hover"><a href="blog_category.html" title=""> blog category</a></li>
-                                        <li class="dropdown_hover"><a href="blog_single.html" title=""> blog single</a></li>
-                                    </ul>
-                                </li> -->
-                                <li><a href="shop_sidebar.html" title="">shop</a>
-                                    <ul>
-                                        <li class="dropdown_hover"><a href="shop_sidebar.html" title="">shop sidebar</a></li>
-                                        <li class="dropdown_hover"><a href="shop_fullwidth.html" title=""> shop fullwidth</a></li>
-                                        <li class="dropdown_hover"><a href="shop_single.html" title=""> shop single</a></li>
-                                    </ul>
+                                <li><a href="about_us.php" title="">About us</a>
+                            
+                                <li><a href="contact_us.php" title="">Contact us</a>
                                 </li>
-                                <li><a href="contact_us.html" title="">Contact us</a>
-								 <ul>
-                                      <li class="dropdown_hover"><a href="contact_us.html" title="">contact us</a></li>
-                                      <li class="dropdown_hover"><a href="error.html" title=""> 404 error</a></li>
-                                </ul>
-                                </li>
-                            <li class="caret_btn">
-                                <a href="#"><i class="fa fa-shopping-basket"></i><span>2</span></a>
-                                <!-- <ul>
-                                    <li>
-                                        <div class="cc_cart_wrapper1 menu-button">
-                                            <div class="cc_cart_img_wrapper">
-                                                <img src="images/cart_1.png" alt="cart_img" />
-                                            </div>
-                                            <div class="cc_cart_cont_wrapper">
-                                                <h4><a href="#">put a title here</a></h4>
-                                                <p>1 <span> $145 </span> </p>
-                                                <h5><i class="fa fa-times"></i></h5>
-                                            </div>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="cc_cart_wrapper1 menu-button">
-                                            <div class="cc_cart_img_wrapper">
-                                                <img src="images/cart_2.png" alt="cart_img" />
-                                            </div>
-                                            <div class="cc_cart_cont_wrapper">
-                                                <h4><a href="#">put a title here</a></h4>
-                                                <p>1 <span> $145 </span></p>
-                                                <h5><i class="fa fa-times"></i></h5>
-                                            </div>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="cc_cart_wrapper1 menu-button">
-                                            <div class="cc_cart_img_wrapper">
-                                                <img src="images/cart_3.png" alt="cart_img" />
-                                            </div>
-                                            <div class="cc_cart_cont_wrapper">
-                                                <h4><a href="#">put a title here</a></h4>
-                                                <p>1 <span> $145 </span></p>
-                                                <h5><i class="fa fa-times"></i></h5>
-                                            </div>
-                                        </div>
-                                        <div class="btm_cart_wrapper">
-                                            <h5>$450.00</h5>
-                                            <p>3 items</p>
-                                        </div>
-                                        <div class="cart_checkout_btn">
-
-                                            <a href="#!" class="waves-effect waves-light waves-ripple">checkout</a>
-
-                                        </div>
-                                    </li>
-
-                                </ul> -->
-                            </li>
 
                             <!-- Menu -->
                             <!--search -->
                         </ul>
                         <div class="header_right_inner_page">
-                            <div class="search-wrapper">
+                            <!-- <div class="search-wrapper">
                                 <div class="et_navbar_search_wrapper hidden-xs">
                                     <div class="et_search_bar" id="search_button">
                                         <a href="#"><i class="fa fa-search waves-effect waves-light" aria-hidden="true"></i></a>
@@ -124,8 +61,8 @@
                                         <a href="#"><i class="fa fa-search" aria-hidden="true"></i></a>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="sw_icon_bar">
+                            </div> -->
+                            <!-- <div class="sw_icon_bar">
                                 <ul class="tc_login_btn_wrapper">
                                     <li class="dropdown tc_login_btn">
                                         <a class="dropdown-toggle hvr-float-shadow active waves-effect waves-light" data-toggle="dropdown" href="#"><i class="fa fa-ellipsis-v"></i></a>
@@ -138,7 +75,7 @@
                                         </ul>
                                     </li>
                                 </ul>
-                            </div>
+                            </div> -->
 
                         </div>
 
@@ -155,100 +92,24 @@
                                 <div class="mobile-menu">
                                     <nav>
                                         <ul class="nav">
-                                            <li><a href="index-2.html">Home</a>
+                                            <li><a href="index.php">Home</a>
 												
                                                 </li>
-                                                <li><a href="about_us.html">about us</a>
+                                                <li><a href="about_us.php">about us</a>
                                                 </li>
-                                                <li><a href="services.html">services</a>
+                                                <li><a href="services.php">services</a>
                                                 </li>
-                                                <!-- <li><a href="project_2.html">projects</a>
-												 <ul>
-													<li><a href="project_2.html" title=""> project 2</a></li>
-													<li><a href="project_3.html" title=""> project 3</a></li>
-													<li><a href="project_4.html" title=""> project 4</a></li>
-													<li><a href="project_fullwidth.html" title="">project fullwidth</a></li>
-													<li><a href="project_single.html" title=""> project single</a></li>
-
-												</ul> -->
-                                                <!-- </li>
-                                                <li><a href="team.html">team</a>
-                                                    <ul>
-														<li><a href="team.html" title=""> team</a></li>
-														<li><a href="team_details.html" title="">team details</a></li>
-													</ul>
+                                                
+                                                <li><a href="contact_us.php"> contact us</a>
+											
                                                 </li>
-                                                <li><a href="blog_single.html" title="">blog</a>
-                                                     <ul>
-														<li><a href="blog_categories.html" title=""> blog categories</a></li>
-														<li><a href="blog_category.html" title=""> blog category</a></li>
-														<li><a href="blog_single.html" title=""> blog single</a></li>
-													</ul>
-                                                </li> -->
-                                                <!-- <li><a href="shop_sidebar.html" title="">shop</a>
-                                                   <ul>
-														<li><a href="shop_sidebar.html" title="">shop sidebar</a></li>
-														<li><a href="shop_fullwidth.html" title=""> shop fullwidth</a></li>
-														<li><a href="shop_single.html" title=""> shop single</a></li>
-													</ul>
-                                                </li> -->
-                                                <li><a href="contact_us.html"> contact us</a>
-												 <ul>
-													  <li><a href="contact_us.html" title="">contact us</a></li>
-													  <li><a href="error.html" title=""> 404 error</a></li>
-												</ul>
+                                                <li><a href="quote.php" title="">free quote</a>
+                                                    <!-- <ul>
+                                                    <li href="FAQ's" title=""><a href="#">FAQ's</a></li>
+                                                    <li href="register" title=""><a href="#">Register</a></li>
+                                                    <li href="login" title=""><a href="#">Login</a></li>
+                                                    </ul> -->
                                                 </li>
-                                            <li class="caret_btn">
-                                                <a href="#"><i class="fa fa-shopping-basket"></i><span>2</span></a>
-                                                <ul>
-                                                    <li>
-                                                        <div class="cc_cart_wrapper1 menu-button">
-                                                            <div class="cc_cart_img_wrapper">
-                                                                <img src="images/cart_1.png" alt="cart_img" />
-                                                            </div>
-                                                            <div class="cc_cart_cont_wrapper">
-                                                                <h4><a href="#">put a title here</a></h4>
-                                                                <p>1 <span> $145 </span> </p>
-                                                                <h5><i class="fa fa-times"></i></h5>
-                                                            </div>
-                                                        </div>
-                                                    </li>
-                                                    <li>
-                                                        <div class="cc_cart_wrapper1 menu-button">
-                                                            <div class="cc_cart_img_wrapper">
-                                                                <img src="images/cart_2.png" alt="cart_img" />
-                                                            </div>
-                                                            <div class="cc_cart_cont_wrapper">
-                                                                <h4><a href="#">put a title here</a></h4>
-                                                                <p>1 <span> $145 </span></p>
-                                                                <h5><i class="fa fa-times"></i></h5>
-                                                            </div>
-                                                        </div>
-                                                    </li>
-                                                    <li>
-                                                        <div class="cc_cart_wrapper1 menu-button">
-                                                            <div class="cc_cart_img_wrapper">
-                                                                <img src="images/cart_3.png" alt="cart_img" />
-                                                            </div>
-                                                            <div class="cc_cart_cont_wrapper">
-                                                                <h4><a href="#">put a title here</a></h4>
-                                                                <p>1 <span> $145 </span></p>
-                                                                <h5><i class="fa fa-times"></i></h5>
-                                                            </div>
-                                                        </div>
-                                                        <div class="btm_cart_wrapper">
-                                                            <h5>$450.00</h5>
-                                                            <p>3 items</p>
-                                                        </div>
-                                                        <div class="cart_checkout_btn">
-
-                                                            <a href="#!" class="waves-effect waves-light waves-ripple">checkout</a>
-
-                                                        </div>
-                                                    </li>
-
-                                                </ul>
-                                            </li>
 
                                         </ul>
                                     </nav>
@@ -267,9 +128,40 @@
         <div class="header_btn">
             <ul>
                 <li>
-                    <a href="#!" class="waves-effect waves-light waves-ripple">free quote</a>
+                    <a href="quote.php" class="waves-effect waves-light waves-ripple">free quote</a>
                 </li>
             </ul>
         </div>
+
     </div>
     <!--sw header wrapper end-->
+
+     <!--main js files-->
+
+     <script src="../js/jquery_min.js"></script>
+    <script src="../js/materialize.min.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+    <script src="../js/jqu_menu.js"></script>
+    <script src="../js/jqu_slickmenu.js"></script>
+    <script src="../js/isotope.pkgd.min.js"></script>
+    <script src="../venobox/js/venobox.min.js"></script>
+    <script src="../js/jquery.inview.min.js"></script>
+    <script src="../js/jquery.mixitup.min.js"></script>
+    <script src="../js/jquery.countTo.js"></script>
+    <script src="../js/wow.min.js"></script>
+    <script src="../js/jquery.easing.1.3.js"></script>
+    <script src="../js/owl.carousel.js"></script>
+    <script src="../js/camera.min.js"></script>
+	  <script src="../js/plugin/rs_slider/jquery.themepunch.revolution.min.js"></script>
+    <script src="../js/plugin/rs_slider/jquery.themepunch.tools.min.js"></script>
+    <script src="../js/plugin/rs_slider/revolution.addon.snow.min.js"></script>
+    <script src="../js/plugin/rs_slider/revolution.extension.actions.min.js"></script>
+    <script src="../js/plugin/rs_slider/revolution.extension.carousel.min.js"></script>
+    <script src="../js/plugin/rs_slider/revolution.extension.kenburn.min.js"></script>
+    <script src="../js/plugin/rs_slider/revolution.extension.layeranimation.min.js"></script>
+    <script src="../js/plugin/rs_slider/revolution.extension.migration.min.js"></script>
+    <script src="../js/plugin/rs_slider/revolution.extension.navigation.min.js"></script>
+    <script src="../js/plugin/rs_slider/revolution.extension.parallax.min.js"></script>
+    <script src="../js/plugin/rs_slider/revolution.extension.slideanims.min.js"></script>
+    <script src="../js/plugin/rs_slider/revolution.extension.video.min.js"></script>
+    <script src="../js/custom_2.js"></script>
