@@ -325,7 +325,7 @@ Author:   Webstrot
                                     <div class="sw_product_indx_img_cont_wrapper sw_product_indx_img_cont_wrapper_2 sw_prdct_11">
 
                                         <h1><a href="https://www.instagram.com/pateldhruvin04/"  target="_blank">Dhruvin Patel</a></h1>
-                                        <h5>Product Decelopment Executive</h5> 
+                                        <h5>Product Development Executive</h5> 
 
                                     </div>
                                 </div>

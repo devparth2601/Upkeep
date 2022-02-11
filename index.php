@@ -543,7 +543,7 @@
 
                                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                                     <div class="contect_form1">
-                                        <input class="white-plc" type="text" name="full_name" placeholder="Name*" class="require">
+                                        <input class="white-plc" type="text" name="name" placeholder="Name*" class="require">
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
