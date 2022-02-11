@@ -1,18 +1,10 @@
 <!DOCTYPE html>
-<!--
-Project:  Typhoon - Solar Energy HTML Template
-Version:  1.0.0
-Author:   Webstrot
--->
-<!--[if IE 8]> <html lang="en" class="ie8 no-js"> <![endif]-->
-<!--[if IE 9]> <html lang="en" class="ie9 no-js"> <![endif]-->
-<!--[if !IE]><!-->
-<html lang="zxx">
+
+<html lang="eng">
 <!--[endif]-->
 
 
-<!-- Mirrored from webstrot.com/html/typhoon/typhoon_html/contact_us.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 Nov 2021 06:36:50 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <head>
     <meta charset="utf-8" />
     <title>Contact Us</title>
@@ -65,7 +57,7 @@ Author:   Webstrot
 
                         <div class="sub_title_section">
                             <ul class="sub_title">
-                                <li><a href="#"> Home </a></li>
+                                <li><a href="index.php"> Home </a></li>
                                 <li> Contact Us</li>
                             </ul>
                         </div>
@@ -85,9 +77,7 @@ Author:   Webstrot
                         <div class="sw_left_heading_wraper sw_dark_heading_wraper">
                             <h1>contact us for queries</h1>
                             <img src="images/hd_line_dark.png" alt="title">
-                            <p>You can call us or raise a ticket to get an estimate for your solar PV system even if you are having any technical trouble feel free to get in touch with us.
-
-</p>
+                            <p>You can call us or raise a ticket to get an estimate for your solar PV system even if you are having any technical trouble feel free to get in touch with us. </p>
                         </div>
                     </div>
                 </div>
@@ -154,14 +144,12 @@ Author:   Webstrot
                                 </div>
                                <ul>
 									<li>
-                                     <h1>+800 568 322</h1></li>
+                                     <h1>8128858034</h1></li>
 									 <li><a href="mailto:info@upkeepsolar.com"><i class="flaticon-new-email-outline"></i>info@upkeepsolar.com</a>
                                     </li>
-									 <li><a href="#"><i class="flaticon-internet"></i>www.upkeepsolar.com</a>
-                                    </li>
-                                  
+									 <li><a href="www.upkeepsolar.com"><i class="flaticon-internet"></i>www.upkeepsolar.com</a>
+                                    </li>                                 
                                     <li><i class="flaticon-placeholder"></i>Ahmedabad, India
-                                                                    
                                 </ul>
                             </div>
                             <div class="abotus_content">
@@ -249,5 +237,4 @@ Author:   Webstrot
 </body>
 
 
-<!-- Mirrored from webstrot.com/html/typhoon/typhoon_html/contact_us.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 Nov 2021 06:36:51 GMT -->
 </html>

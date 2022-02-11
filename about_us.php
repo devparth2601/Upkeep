@@ -305,9 +305,9 @@ Author:   Webstrot
                                 <div class="sw_product_box_wrapper">
                                     <div class="sw_product_indx_img_wrapper">
                                         <div class="sp_img_box_overlay"></div>
-                                        <img src="images/parth.png" alt="shop_img" class="img-responsive" />
+                                        <img src="images/dhruvin.png" alt="shop_img" class="img-responsive" />
                                         <div class="abt_img_btn_wrapper">
-                                            <ul>
+                                            <!-- <ul>
                                                 <li><a href="#"><i class="fa fa-facebook"></i></a>
                                                 </li>
                                                 <li><a href="#"><i class="fa fa-twitter"></i></a>
@@ -318,13 +318,42 @@ Author:   Webstrot
                                                 </li>
                                                 <li><a href="#"><i class="fa fa-pinterest-p"></i></a>
                                                 </li>
-                                            </ul>
+                                            </ul> -->
                                         </div>
                                     </div>
 
                                     <div class="sw_product_indx_img_cont_wrapper sw_product_indx_img_cont_wrapper_2 sw_prdct_11">
 
-                                        <h1><a href="#">Parth Vaghasiya</a></h1>
+                                        <h1><a href="https://www.instagram.com/pateldhruvin04/"  target="_blank">Dhruvin Patel</a></h1>
+                                        <h5>Product Decelopment Executive</h5> 
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="sw_product_box_wrapper">
+                                    <div class="sw_product_indx_img_wrapper">
+                                        <div class="sp_img_box_overlay"></div>
+                                        <img src="images/parth.png" alt="shop_img" class="img-responsive" href="https://www.instagram.com/parth.patel_26/"  target="_blank" />
+                                        <div class="abt_img_btn_wrapper">
+                                            <!-- <ul>
+                                                <li><a href="#"><i class="fa fa-facebook"></i></a>
+                                                </li>
+                                                <li><a href="#"><i class="fa fa-twitter"></i></a>
+                                                </li>
+                                            </ul>
+                                            <ul class="sw_abt_icon_top_wrapper">
+                                                <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                                                </li>
+                                                <li><a href="#"><i class="fa fa-pinterest-p"></i></a>
+                                                </li>
+                                            </ul> -->
+                                        </div>
+                                    </div>
+
+                                    <div class="sw_product_indx_img_cont_wrapper sw_product_indx_img_cont_wrapper_2 sw_prdct_11">
+
+                                        <h1><a href="https://www.instagram.com/parth.patel_26/"  target="_blank">Parth Vaghasiya</a></h1>
                                         <h5>Junior Engineer</h5>
 
                                     </div>
@@ -336,7 +365,7 @@ Author:   Webstrot
                                         <div class="sp_img_box_overlay"></div>
                                         <img src="images/akshay.png" alt="shop_img" class="img-responsive" />
                                         <div class="abt_img_btn_wrapper">
-                                            <ul>
+                                            <!-- <ul>
                                                 <li><a href="#"><i class="fa fa-facebook"></i></a>
                                                 </li>
                                                 <li><a href="#"><i class="fa fa-twitter"></i></a>
@@ -347,13 +376,13 @@ Author:   Webstrot
                                                 </li>
                                                 <li><a href="#"><i class="fa fa-pinterest-p"></i></a>
                                                 </li>
-                                            </ul>
+                                            </ul> -->
                                         </div>
                                     </div>
 
                                     <div class="sw_product_indx_img_cont_wrapper sw_product_indx_img_cont_wrapper_2 sw_prdct_11">
 
-                                        <h1><a href="#"> Akshay Joshi</a></h1>
+                                        <h1><a href="https://www.instagram.com/av__joshi/"  target="_blank"> Akshay Joshi</a></h1>
                                         <h5>Junior Engineer</h5>
 
                                     </div>
@@ -363,9 +392,9 @@ Author:   Webstrot
                                 <div class="sw_product_box_wrapper">
                                     <div class="sw_product_indx_img_wrapper">
                                         <div class="sp_img_box_overlay"></div>
-                                        <img src="images/sunny.png" alt="shop_img" class="img-responsive" />
+                                        <img src="images/sunny.png" alt="shop_img" class="img-responsive" ref="https://www.instagram.com/sunny_2295/" target="_blank" />
                                         <div class="abt_img_btn_wrapper">
-                                            <ul>
+                                            <!-- <ul>
                                                 <li><a href="#"><i class="fa fa-facebook"></i></a>
                                                 </li>
                                                 <li><a href="#"><i class="fa fa-twitter"></i></a>
@@ -376,13 +405,13 @@ Author:   Webstrot
                                                 </li>
                                                 <li><a href="#"><i class="fa fa-pinterest-p"></i></a>
                                                 </li>
-                                            </ul>
+                                            </ul> -->
                                         </div>
                                     </div>
 
                                     <div class="sw_product_indx_img_cont_wrapper sw_product_indx_img_cont_wrapper_2 sw_prdct_11">
 
-                                        <h1><a href="#">Sunny Zalavadiya</a></h1>
+                                        <h1><a href="https://www.instagram.com/sunny_2295/" target="_blank">Sunny Zalavadiya</a></h1>
                                         <h5>Senior Engineer</h5>
 
                                     </div>
@@ -394,7 +423,7 @@ Author:   Webstrot
                                         <div class="sp_img_box_overlay"></div>
                                         <img src="images/umang.png" alt="shop_img" class="img-responsive" />
                                         <div class="abt_img_btn_wrapper">
-                                            <ul>
+                                            <!-- <ul>
                                                 <li><a href="#"><i class="fa fa-facebook"></i></a>
                                                 </li>
                                                 <li><a href="#"><i class="fa fa-twitter"></i></a>
@@ -405,47 +434,19 @@ Author:   Webstrot
                                                 </li>
                                                 <li><a href="#"><i class="fa fa-pinterest-p"></i></a>
                                                 </li>
-                                            </ul>
+                                            </ul> -->
                                         </div>
                                     </div>
 
                                     <div class="sw_product_indx_img_cont_wrapper sw_product_indx_img_cont_wrapper_2 sw_prdct_11">
 
-                                        <h1><a href="#">Umang Vaghasiya</a></h1>
+                                        <h1><a href="">Umang Vaghasiya</a></h1>
                                         <h5>IT Engineer</h5>
 
                                     </div>
                                 </div>
                             </div>
-                            <div class="item">
-                                <div class="sw_product_box_wrapper">
-                                    <div class="sw_product_indx_img_wrapper">
-                                        <div class="sp_img_box_overlay"></div>
-                                        <img src="images/abt_pdt_2.png" alt="shop_img" class="img-responsive" />
-                                        <div class="abt_img_btn_wrapper">
-                                            <ul>
-                                                <li><a href="#"><i class="fa fa-facebook"></i></a>
-                                                </li>
-                                                <li><a href="#"><i class="fa fa-twitter"></i></a>
-                                                </li>
-                                            </ul>
-                                            <ul class="sw_abt_icon_top_wrapper">
-                                                <li><a href="#"><i class="fa fa-linkedin"></i></a>
-                                                </li>
-                                                <li><a href="#"><i class="fa fa-pinterest-p"></i></a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-
-                                    <div class="sw_product_indx_img_cont_wrapper sw_product_indx_img_cont_wrapper_2 sw_prdct_11">
-
-                                        <h1><a href="#">mack K.</a></h1>
-                                        <h5>(environmentalist)</h5>
-
-                                    </div>
-                                </div>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>
