@@ -14,7 +14,7 @@
                         <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12">
                             <div class="wrapper_second_about">
                                 <div class="wrapper_first_image">
-                                    <a href="index-2.html"><img src="images/hd_logo.gif" class="img-responsive" alt="logo" /></a>
+                                    <a href="index.php"><img src="images/hd_logo.gif" class="img-responsive" alt="logo" style="width:150px"/></a>
                                 </div>
                                 <div class="abotus_content">
                                     <p>We are always here for the maintanace and cleaning of your solar power system and full technical support will be provided</p>
@@ -61,7 +61,7 @@
                                 <img src="images/hd_line_dark.png" alt="title" class="pd_btm_3">
                                 <ul>
 									<li>
-                                     <h1>8128858034</h1></li>
+                                    <a href-"tel:7048358034"><h1>7048358034</h1></a></li>
 									 <li><a href="mailto:info@upkeepsolar.com"><i class="flaticon-new-email-outline"></i>info@upkeepsolar.com</a>
                                     </li>
 									 <li><a href="#"><i class="flaticon-internet"></i>www.upkeepsolar.com</a>

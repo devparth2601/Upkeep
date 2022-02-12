@@ -90,6 +90,133 @@
         </div>
     </div>
     <!--sw about us top end-->
+      <!-- contact us section start -->
+      <div class="contact-section">
+        <div class="container">
+            <div class="holder">
+                <div class=" row">
+                    <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+
+                        <form method="post" id = "home-contact" action="contact-form-handler.php">
+
+                            <div class="sw_left_heading_wraper">
+                                <h1>Feel Free To Contact Us</h1>
+                                <img src="images/heading_line.png" alt="title">
+                                <p>Please contact us, We will make sure that you can receive our reply as soon as possible. </p>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <input type="text" name="name" placeholder="Name*" class="require">
+                                </div>
+                                <div class="col-md-6">
+                                    <input type="text" autocomplete="false"  name="hidden" name="email" placeholder="Email"  data-valid="email" data-error="Email should be valid.">
+                                </div>
+                                <div class="col-md-12">
+                                    <input type="text" name="phone" class ="require"placeholder="Mobile No.">
+                                </div>
+
+                                <div class="col-md-12">
+                                    <textarea cols="10" rows="4" name="message" placeholder="Message"></textarea>
+                                </div>
+                                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                    <div class="response response_2"></div>
+                                    <div class="cntct_2_btn_wrapper cntct_2_btn_inner">
+                                        <button type="submit" class="submitForm waves-effect waves-light waves-ripple">Send</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+
+                        <div class="contact-box">
+                            <div class="wrapper_second_useful_2">
+                                <div class="sw_left_heading_wraper sw_dark_heading_wraper ppp">
+                                    <h1>Contact info</h1>
+                                    <img src="images/hd_line_dark.png" alt="title">
+                                    <p></p>
+                                </div>
+                               <ul>
+									<li>
+                                     <a href-"tel:7048358034"><h1>7048358034</h1></a></li>
+									 <li><a href="mailto:info@upkeepsolar.com"><i class="flaticon-new-email-outline"></i>info@upkeepsolar.com</a>
+                                    </li>
+									 <li><a href="www.upkeepsolar.com"><i class="flaticon-internet"></i>www.upkeepsolar.com</a>
+                                    </li>                                 
+                                    <li><i class="flaticon-placeholder"></i>Ahmedabad, India
+                                </ul>
+                            </div>
+                            <div class="abotus_content">
+
+                                <ul>
+                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-youtube-play"></i></a></li>
+                                    <li class="hidden-xs"><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                                </ul>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--contact wrapper end-->
+    <!--sw our newsletter wrapper start-->
+    <div class="sw_our_newsletter_wrapper">
+
+        <div class="container">
+            <div class="row">
+                <div class="col-md-7 col-lg-7 col-sm-12 col-xs-12">
+                    <div class="sw_nl_heading_wrapper sw_our_news_txt">
+                        <i class="flaticon-rocket"></i>
+                        <h2>Subscribe Our Newsletter</h2>
+                        <h6>Get the latest News & Offers..</h6>
+
+                        <div class="prs_newsletter_field">
+                            <input type="text" placeholder="Email*">
+                            <button type="submit" class="waves-effect waves-light waves-ripple">Submit</button>
+                        </div>
+                        <p>True environmental protection lies in loving the mountains, the oceans and in cher
+                            <br> all creation.</p>
+
+                    </div>
+                </div>
+                <div class="col-md-5 col-lg-5 col-sm-12 col-xs-12">
+                    <div class="sw_letter_img_wrapper">
+                        <img src="images/abt_ltr_img.png" alt="img">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <!-- sw our newsletter section end-->
+    <!-- sw footer section start-->
+    <?php include 'includes/_footer.php' ?>
+
+    <!-- sw footer section end-->
+    <!--main js files-->
+
+    <script src="js/jquery_min.js"></script>
+    <script src="js/materialize.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jqu_menu.js"></script>
+    <script src="js/jqu_slickmenu.js"></script>
+    <script src="js/isotope.pkgd.min.js"></script>
+    <script src="venobox/js/venobox.min.js"></script>
+    <script src="js/jquery.inview.min.js"></script>
+    <script src="js/jquery.mixitup.min.js"></script>
+    <script src="js/jquery.countTo.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script src="js/jquery.easing.1.3.js"></script>
+    <script src="js/owl.carousel.js"></script>
+    <script src="js/camera.min.js"></script>
+    <script src="js/custom_2.js"></script>
  
 
 </body>
