@@ -438,16 +438,18 @@
 		var errroTarget = targetForm.find('.response');
 		var check = checkRequire(targetForm , errroTarget);
 		if(check === 0){
+      $('#home-contact').submit();
 			var formDetail = new FormData(targetForm[0]);
 			formDetail.append('form_type' , _this.attr('form-type'));
 			$.ajax({
 				method : 'post',
-				url : 'ajax.php',
+				url : $('#home-contact').attr('action'),
 				data:formDetail,
 				cache:false,
 				contentType: false,
 				processData: false
 			}).done(function(resp){
+        console.log(resp);
 				if(resp === 1){
 					targetForm.find('input').val('');
 					targetForm.find('textarea').val('');

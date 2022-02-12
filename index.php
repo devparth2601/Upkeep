@@ -538,22 +538,22 @@
                         <p>Donec quis magna sit amet risus vulputate maximus eget eget arcu. Praesent sed molestie tortor. </p>
                     </div>
                     <div class="row">
-                        <form method="post" action="contact-form-handler.php">
+                        <form method="post" id = "home-contact" action="contact-form-handler.php">
                             <div class="cont_main_section">
 
                                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                                     <div class="contect_form1">
-                                        <input class="white-plc" type="text" name="name" placeholder="Name*" class="require">
+                                        <input class="white-plc require" type="text" name="name" placeholder="Name*" class="require">
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                                     <div class="contect_form1">
-                                        <input class="white-plc" type="email" name="email" placeholder="Email*" class="require" data-valid="email" data-error="Email should be valid.">
+                                        <input class="white-plc require" type="email" name="email" placeholder="Email*" class="require" data-valid="email" data-error="Email should be valid.">
                                     </div>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                     <div class="contect_form1">
-                                        <input class="white-plc" type="text" name="phone" placeholder="Mobile No.*">
+                                        <input class="white-plc require" type="text" name="phone" placeholder="Mobile No.*">
                                     </div>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
