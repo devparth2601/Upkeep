@@ -564,7 +564,7 @@
                                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                     <div class="response"></div>
                                     <div class="cntct_2_btn_wrapper">
-                                        <button type="submit" class="submitForm waves-effect waves-light waves-ripple">send</button>
+                                        <button type="submit" class="waves-effect waves-light waves-ripple">send</button>
                                     </div>
                                 </div>
                             </div>
