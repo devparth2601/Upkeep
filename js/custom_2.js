@@ -432,7 +432,8 @@
 		});
 		return check;
 	}
-	$(".submitForm").on("click", function() {
+	$(".submitForm").on("click", function(e) {
+    e.preventDefault();
 		var _this = $(this);
 		var targetForm = _this.closest('form');
 		var errroTarget = targetForm.find('.response');
@@ -455,7 +456,7 @@
 					targetForm.find('textarea').val('');
 					errroTarget.html('<p style="color:green;">Mail has been sent successfully.</p>');
 			// 	}else{
-			// 		errroTarget.html('<p style="color:red;">Something went wrong please try again latter.</p>');
+					// errroTarget.html('<p style="color:red;">Something went wrong please try again latter.</p>');
 			// 	}
 			});
 		}
