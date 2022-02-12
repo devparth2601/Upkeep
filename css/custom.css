@@ -17,9 +17,16 @@ background-color: rgba(255,152,0,0.8) !important ;
 
 }
 /*///////////////////////////////// PRELOADER//////////////////////////////////// */
-#preloader_image{
+@media (max-width: 991px) {#preloader_image{
+    width: 150px;
+}
+}
+@media (min-width: 992px) {#preloader_image{
     width: 250px;
 }
+}
+
+
 
 
 /*///////////////////////////////// HEADER//////////////////////////////////// */
