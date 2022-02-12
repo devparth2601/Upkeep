@@ -28,6 +28,6 @@ if(isset($_POST['name']) && isset($_POST['email']) && isset($_POST['phone']) ){
 
 
 
-header("Location: index.php");
+// header("Location: index.php");
 
 ?>
