@@ -432,7 +432,7 @@
 		});
 		return check;
 	}
-	$(".submitForm").on("click", function(e) {
+	$("#home-contact").on("submit", function(e) {
     e.preventDefault();
 		var _this = $(this);
 		var targetForm = _this.closest('form');
